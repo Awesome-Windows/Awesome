@@ -116,6 +116,7 @@
 - [OneDrive](https://onedrive.live.com/about/en-us/download/) - Best cloud storage solution for Windows users.
 - [Mozy](https://mozy.com/product/download)
 - [Box](https://app.box.com/services/browse/43/box_sync_for_windows) - Ability to sync more than 100,000 files and supporting both special characters in file names and file paths longer than 256 characters.
+- [ODrive](https://www.odrive.com/) - Manage multiple cloud storage accounts & services with selective syncing, link sharing, cross platform app support, encryption and more.
 
 
 ### Productivity
@@ -224,6 +225,7 @@
 
 - [RazorSQL](http://www.razorsql.com/) - A GUI for managing SQLite databases which requires major work.
 - [GitHub Desktop](https://windows.github.com/) - A GUI for using GitHub.
+- [Git CLI](https://git-scm.com/download/win) - Command Line Interface for using Git version control services such as GitHub, Bitbucket, and Gitlab. 
 - [pngquant](https://pngquant.org/) - Apply lossy compression on PNG files with or without transparency for more efficient files.
 - [I'm Only Resting](http://www.swensensoftware.com/im-only-resting) -A feature-rich WinForms-based HTTP client [![Open-Source Software][OSS Icon]](https://github.com/swensensoftware/im-only-resting)
 - [Insomnia](http://insomnia.rest) - A modern REST client with an beautiful interface. 
@@ -231,7 +233,6 @@
 - [Sql Wave](http://www.sqlwave.com/) - A MySQL database manager.
 - [Pixie](http://www.nattyware.com/pixie.php) - A simple color picker for developers.
 - [SourceTree](https://www.sourcetreeapp.com/) - A free Git & Mercurial client.
-- [Tower](https://openhatch.org/missions/windows-setup/install-git-bash) - command-line git client for windows.
 - [Zsh](http://www.zsh.org/) -  A powerful command line shell. [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/)
 - [Redis Desktop Manager](http://redisdesktop.com/) Cross-platform open source Redis DB management tool.
 - [Visual Studio](https://www.visualstudio.com/) - Ultimate Microsoft Developer Tool.
