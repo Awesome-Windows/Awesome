@@ -231,7 +231,6 @@
 - [Sql Wave](http://www.sqlwave.com/) - A MySQL database manager.
 - [Pixie](http://www.nattyware.com/pixie.php) - A simple color picker for developers.
 - [SourceTree](https://www.sourcetreeapp.com/) - A free Git & Mercurial client.
-- [Tower](https://openhatch.org/missions/windows-setup/install-git-bash) - command-line git client for windows.
 - [Zsh](http://www.zsh.org/) -  A powerful command line shell. [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/)
 - [Redis Desktop Manager](http://redisdesktop.com/) Cross-platform open source Redis DB management tool.
 - [Visual Studio](https://www.visualstudio.com/) - Ultimate Microsoft Developer Tool.
