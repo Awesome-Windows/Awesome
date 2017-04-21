@@ -71,7 +71,7 @@
 - [Messenger for Desktop](http://messengerfordesktop.com/) - An app for Facebook messenger. [![Open-Source Software][OSS Icon]](https://github.com/Aluxian/Facebook-Messenger-Desktop) ![Freeware][Freeware Icon]
 - [mIRC](http://www.mirc.com/) - An Internet Relay Chat (IRC) client.
 - [Telegram](https://desktop.telegram.org/) - A messaging app with a focus on speed and security, it’s super fast, simple and free. [![Open-Source Software][OSS Icon]](https://telegram.org/apps)  ![Freeware][Freeware Icon]
-- [Quassel](http://quassel-irc.org/) - Quassel IRC is a modern, cross-platform, distributed IRC client. [![Open-Source Software][OSS Icon]](http://quassel-irc.org/) ![Freeware][Freeware Icon]
+- [Quassel](http://quassel-irc.org/) - Quassel IRC is a modern (**this claim is bullshit**), cross-platform, distributed IRC client. [![Open-Source Software][OSS Icon]](http://quassel-irc.org/) ![Freeware][Freeware Icon]
 
 ### Compression
 
