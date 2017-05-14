@@ -233,6 +233,7 @@
 ### Utilities
 
 - [A-Z of Windows Terminal Commands](http://ss64.com/nt/)
+- [Aadvanced Renamer](https://www.advancedrenamer.com/) - Program to rename multiple files and folders at once with support for multi-stage renaming and scripting.
 - [Carnac](http://code52.org/carnac/) - The easiest way to record keystrokes during any screen recording.
 - [Ccleaner](https://www.piriform.com/ccleaner/download) - System cleaning utility which is more easy to understand and use for beginners.
 - [CleanMyPC](http://macpaw.com/cleanmypc) - A clean computer in no time.
