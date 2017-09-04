@@ -216,6 +216,7 @@
 - [AutoHotkey](https://autohotkey.com/) - The ultimate automation scripting language for Windows. [![Open-Source Software][OSS Icon]](https://autohotkey.com/) ![Freeware][Freeware Icon]
 - [Cold Turkey](https://getcoldturkey.com) - The only blocker for distracting websites that actually works. (even doesn't let you uninstall it when blocking is active).
 - [Chocolatey](https://chocolatey.org/) - A package manager for Windows.
+- [Clover](http://en.ejie.me/) - A multitab functionality for the Windows Explorer. ![Freeware][Freeware Icon]
 - [Ditto](http://ditto-cp.sourceforge.net/) - Clipboard manager.
 - [Everything](http://www.voidtools.com/) - The fastest file/folder search tool by name.
 - [f.lux](http://stereopsis.com/flux/) - Automatically adjust your computer screen to match lighting. ![Freeware][Freeware Icon]
