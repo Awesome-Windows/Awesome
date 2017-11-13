@@ -123,6 +123,7 @@
 - [pngquant](https://pngquant.org/) - Apply lossy compression on PNG files with or wi
 - [PostgreSQL Database](http://wiki.postgresql.org/wiki/Community_Guide_to_PostgreSQL_GUI_Tools) - A comprehensive list of tools.
 - [Postman](https://www.getpostman.com/postman) - REST client with intuitive user interface to send requests, save responses, add tests, and create workflows.
+- [System Explorer](http://systemexplorer.net/) - A powerful task manager replacement. Set permanent process priorities. ![Freeware][Freeware Icon]
 - [Process Explorer](https://technet.microsoft.com/en-us/sysinternals/processexplorer.aspx) - A powerful task manager. ![Freeware][Freeware Icon]
 - [Process Hacker](http://processhacker.sourceforge.net/) - Excellent full blown task manager.
 - [RazorSQL](http://www.razorsql.com/) - A GUI for managing SQLite databases which requires major work.
