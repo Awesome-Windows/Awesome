@@ -33,13 +33,11 @@
   - [实用程序](#实用程序)
   - [视频](#视频)
 - [配置与安装](#配置与安装)
-    - [Windows 10　设置](#Windows 10 设置)
-    - [Windows 8.1 设置](#Windows 8 设置)
 - [安全](#安全)
 - [杂项](#杂项)
 - [论坛](#论坛)
     - [Windows](#windows)
-    - [IRC 频道](#IRC 频道)
+    - [IRC 频道](#irc-频道)
     - [Reddit](#reddit)
 - [贡献](#贡献)
 
@@ -290,14 +288,9 @@
 
 ## 配置与安装
 
-### Windows 10 设置
-
+* https://support.microsoft.com/zh-cn/help/15088/windows-create-installation-media
 * http://www.theverge.com/2015/7/31/9077997/microsoft-windows-10-clean-install-how-to-guide
 * http://www.howtogeek.com/224342/how-to-clean-install-windows-10/
-
-### Windows 8 设置
-
-* http://windows.microsoft.com/en-IN/windows-8/clean-install
 
 ## 安全
 
