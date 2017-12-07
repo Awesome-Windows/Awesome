@@ -313,7 +313,7 @@
 - [System Explorer](http://systemexplorer.net) - 加强版的任务管理器，支持监控和修改系统进程，启动项，系统服务，驱动，终端扩展等。
 - [UnChecky](https://unchecky.com/) - 自动取消勾选程序安装过程中的无关选项。
 - [Malwarebytes](https://www.malwarebytes.org/) - 提供防病毒软件无法提供的防护功能。
-- [NetLimiter]() - 网络流量控制和分析工具。 ![Freeware][Freeware Icon]
+- [NetLimiter](https://www.netlimiter.com/) - 网络流量控制和分析工具。
 - [Tor Project](https://www.torproject.org/) - 启用匿名通信。 [![Open-Source Software][OSS Icon]](https://github.com/TheTorProject)
 - [Windows 10 Paranoid's Guide](http://www.zdnet.com/article/how-to-secure-windows-10-the-paranoids-guide/)
 - [Disable Data Logging](https://www.reddit.com/r/Windows10/comments/3f38ed/guide_how_to_disable_data_logging_in_w10) - 使Windows 10更加私密和安全。
