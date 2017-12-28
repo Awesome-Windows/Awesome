@@ -64,6 +64,7 @@
 - [Exact Audio Copy](http://www.exactaudiocopy.de/) - Transfer files from your CDs to your PC in almost every format.Comes with some pretty nifty features too.
 - [Kodi](https://kodi.tv/) - Free and Open Source home theatre software. [![Open-Source Software][OSS Icon]](https://github.com/xbmc) ![Freeware][Freeware Icon]
 - [Resonic](https://resonic.at/) - Fast and free audio player.
+- [Ear Trumpet](https://github.com/File-New-Project/EarTrumpet) - Improved Volume Control for Windows 10. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/File-New-Project/EarTrumpet)
 
 ### Chat Clients
 
