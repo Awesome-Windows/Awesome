@@ -117,7 +117,7 @@
 - [PostgreSQL Database](http://wiki.postgresql.org/wiki/Community_Guide_to_PostgreSQL_GUI_Tools) - 官网文档中一个完整的GUI工具列表说明。[PostgreSQL官网](https://www.postgresql.org/)
 - [Postman](https://www.getpostman.com/postman) - 适合API开发的完整工具链，最常用的REST客户端。
 - [Process Explorer](https://technet.microsoft.com/en-us/sysinternals/processexplorer.aspx) - 功能强大的任务管理工具。 ![Freeware][Freeware Icon]
-- [Process Hacker](http://processhacker.sourceforge.net/) -优秀且成熟的任务管理工具。
+- [Process Hacker](http://processhacker.sourceforge.net/) -优秀且成熟的任务管理工具。[![Open-Source Software][OSS Icon]](http://processhacker.sourceforge.net/)![Freeware][Freeware Icon]
 - [RazorSQL](http://www.razorsql.com/) - 供数据库管理员使用的 SQLite 数据库管理软件
 - [Redis Desktop Manager](http://redisdesktop.com/) 跨平台开源的Redis数据库管理工具。
 - [Robo 3T](https://robomongo.org/) - MongoDB的轻量级的图形界面管理工具，原先叫*Robomongo*。
@@ -137,6 +137,7 @@
 - ~~[Alacritty](https://github.com/jwilm/alacritty) - 跨平台，使用GPU加速的终端模拟器。 [![Open-Source Software][OSS Icon]](https://github.com/jwilm/alacritty) ![Freeware][Freeware Icon]~~, not available for Windows yet.
 - ~~[Visual Studio Code](https://code.visualstudio.com/) - 轻量的源码编辑器。~~ ***见[文本编辑器](#文本编辑器)***
 - ~~[Visual Studio](https://www.visualstudio.com/) - Microsoft提供的Windows上最强开发工具。~~ ***见[集成开发环境](#集成开发环境)***
+- [little-registry-cleaner](https://www.little-apps.com/little-registry-cleaner/) - 注册表清理工具. [![Open-Source Software][OSS Icon]](https://www.little-apps.com/little-registry-cleaner/) ![Freeware][Freeware Icon]
 
 ### 文档
 - [FreeOffice](http://www.freeoffice.com/en/) - FreeOffice 提供一套完整的办公套件，拥有文字编辑器，电子表格程序和演示程序 - 均与 office 对应程序相兼容。  ![Freeware][Freeware Icon]
