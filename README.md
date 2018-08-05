@@ -300,6 +300,7 @@
 - [LightBulb](https://github.com/Tyrrrz/LightBulb) - Reduces eyestrain by adjusting gamma based on the current time
 - [Link Shell Extension](http://schinagl.priv.at/nt/hardlinkshellext/hardlinkshellext.html) - Create symlinks from Explorer.
 - [rimraf](https://www.npmjs.com/package/rimraf) - A deep deletion module for node. Help to delete files and folders with very long paths
+- [Nirlauncher](https://launcher.nirsoft.net/) - Package of over 200 utilities from Nirsoft. ![Freeware][Freeware Icon]
 - [PowerPlanSwitcher](https://www.microsoft.com/en-us/store/p/powerplanswitcher/9nblggh556l3) - Provides a quick UI for switching power schemas & automatic switch on AC-plug-in on Windows10. [![Open-Source Software][OSS Icon]](https://github.com/petrroll/PowerSwitcher)
 - [qBittorrent](https://qbittorrent.org/) - Free and reliable P2P Bittorrent client.
 - [Rufus](https://rufus.akeo.ie/) - Create bootable USB drives the easy way.
