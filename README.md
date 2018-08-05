@@ -268,7 +268,7 @@
 
 - [Babun](http://babun.github.io) - Alternative Windows shell based on Cygwin. [![Open-Source Software][OSS Icon]](https://github.com/babun/babun) ![Freeware][Freeware Icon]
 - [Cmder](https://github.com/cmderdev/cmder) - Console emulator package.
-- [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable terminal with tabs, splits, quake-style and more.
+- [ConEmu](https://conemu.github.io/) - Customizable terminal with tabs, splits, quake-style and more. [![Open-Source Software][OSS Icon]](https://github.com/Maximus5/ConEmu) ![Freeware][Freeware Icon]
 - [ConsoleZ](https://github.com/cbucher/console) - Modified version of Console 2 for a better experience and a better visual rendering.
 - [Hyper](https://hyper.is) - A terminal built on web technologies. [![Open-Source Software][OSS Icon]](https://github.com/zeit/hyper) ![Freeware][Freeware Icon]
 - [MobaXterm](http://mobaxterm.mobatek.net/) - Xserver and tabbed SSH client.
