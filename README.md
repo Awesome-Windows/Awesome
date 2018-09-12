@@ -106,7 +106,7 @@
 - [PartitionGuru｜Eassos Recovery](http://www.eassos.com/) - Data recovery with partition recovery. ![Freeware][Freeware Icon]
 - [Recuva](https://www.piriform.com/recuva) - Recover your deleted files quickly and easily.
 - [TestDisk](http://www.cgsecurity.org/wiki/TestDisk) -  Powerful free data recovery software primarily designed to help recover lost partitions and/or make non-booting disks bootable again.
-- [GSmartControl](https://gsmartcontrol.sourceforge.io/home/) - GSmartControl - Hard disk drive and SSD health inspection tool. It allows you to inspect the drive's SMART data to determine its health, as well as run various tests on it.
+- [GSmartControl](https://gsmartcontrol.sourceforge.io/home/) - GSmartControl - Hard disk drive and SSD health inspection tool. It allows you to inspect the drive's SMART data to determine its health, as well as run various tests on it. [![Open-Source Software][OSS Icon]](https://gsmartcontrol.sourceforge.io/home/)
 
 ### Developer Tools
 
