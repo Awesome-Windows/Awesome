@@ -148,7 +148,7 @@
 - [Xampp](https://www.apachefriends.org/index.html) - Apache driven web development environment. ![Freeware][Freeware Icon]
 - [Xftp 5](https://www.netsarang.com/products/xfp_overview.html) - Flexible and lightweight SFTP/FTP client. ![Freeware][Freeware Icon]
 - [Zsh](http://www.zsh.org/) -  A powerful command line shell. [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/) ![Freeware][Freeware Icon]
-
+- [MySQL Workbench](https://dev.mysql.com/downloads/workbench/) - MySQL Workbench provides DBAs and developers an integrated tools environment for Modeling, Development, Administration, Migrations, etc.
 ### Documents
 
 - [FreeOffice](http://www.freeoffice.com/en/) - FreeOffice is a complete office suite with a word processor, a spreadsheet application and a presentation program – all compatible with their counterparts in Microsoft Office. ![Freeware][Freeware Icon]
