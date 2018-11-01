@@ -65,6 +65,7 @@
 - [Exact Audio Copy](http://www.exactaudiocopy.de/) - Transfer files from your CDs to your PC in almost every format.Comes with some pretty nifty features too.
 - [Kodi](https://kodi.tv/) - Free and Open Source home theatre software. [![Open-Source Software][OSS Icon]](https://github.com/xbmc) ![Freeware][Freeware Icon]
 - [Resonic](https://resonic.at/) - Fast and free audio player.
+- [Spotify](https://www.spotify.com) - Awesome application and music catalog.
 
 ### Chat Clients
 
