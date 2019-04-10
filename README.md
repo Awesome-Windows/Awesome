@@ -293,6 +293,7 @@
 - [Carnac](http://code52.org/carnac/) - The easiest way to record keystrokes during any screen recording.
 - [CleanMyPC](http://macpaw.com/cleanmypc) - A clean computer in no time.
 - [CPU-Z](http://www.cpuid.com/softwares/cpu-z.html) - A free all-in-one CPU monitoring tool. ![Freeware][Freeware Icon]
+- [Don't Sleep](http://www.softwareok.com/?seite=Microsoft/DontSleep) - Portable program to prevent system shutdown, standby, hibernate, etc... ![Freeware][Freeware Icon]
 - [Ext2Fsd](http://www.ext2fsd.com/) - Open source ext3/4 file system driver for Windows.[![Open-Source Software][OSS Icon]](https://github.com/matt-wu/Ext3Fsd) ![Freeware][Freeware Icon]
 - [Far](http://www.farmanager.com/index.php?l=en) - File and Archive manager. Clone of the Norton Commander. [![Open-Source Software][OSS Icon]](http://sourceforge.net/projects/farmanager/)
 - [Fraps](http://www.fraps.com/)- Video game capture screen recorder that can be used with all games using DirectX or OpenGL technology.
