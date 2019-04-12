@@ -150,6 +150,7 @@
 - [Xampp](https://www.apachefriends.org/index.html) - Apache driven web development environment. ![Freeware][Freeware Icon]
 - [Xftp 5](https://www.netsarang.com/products/xfp_overview.html) - Flexible and lightweight SFTP/FTP client. ![Freeware][Freeware Icon]
 - [Zsh](http://www.zsh.org/) -  A powerful command line shell. [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/) ![Freeware][Freeware Icon]
+- [DBeaver Community](https://dbeaver.io/) - Free universal database tool and SQL client [![Open-Source Software][OSS Icon]](https://github.com/dbeaver/dbeaver) ![Freeware][Freeware Icon]
 
 ### Documents
 
