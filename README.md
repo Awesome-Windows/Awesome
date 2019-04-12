@@ -235,7 +235,7 @@
 - [OneDrive](https://onedrive.live.com/about/en-us/download/) - Best cloud storage solution for Windows users.
 - [Mega](https://mega.nz/) - Encrypted file storage.
 - [Mozy](https://mozy.com/product/download)
-
+- [BaiDu](https://pan.baidu.com/) - A Chinese monopoly online network disk
 
 ### Backup
 
