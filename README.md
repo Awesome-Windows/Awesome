@@ -338,6 +338,7 @@
 - [PotPlayer](http://potplayer.daum.net/) - Multimedia player with a wide collection of codecs which also offers extensive configuration options for users.
 - [SMPlayer](https://sourceforge.net/projects/smplayer/) - Multimedia player that can save different preferences for any single video. [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/smplayer/code/HEAD/tree/) ![Freeware][Freeware Icon]
 - [Open Broadcaster Software](https://obsproject.com/) - Free and open source software for video recording and live streaming. [![Open-Source Software][OSS Icon]](https://github.com/jp9000/OBS)
+- [MPC-HC](https://mpc-hc.org/) - Extremely light-weight, open source media player for Windows®. [![Open-Source Software][OSS Icon]](https://github.com/mpc-hc/mpc-hc) ![Freeware][Freeware Icon]
 
 ## Setup
 
