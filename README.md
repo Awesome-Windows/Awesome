@@ -88,9 +88,9 @@
 ### Customization
 
 - [7+ Taskbar Tweaker](http://rammichael.com/7-taskbar-tweaker) - Allows to customize and extend Windows taskbar functionality with various productivity enhancements. ![Freeware][Freeware Icon]
-- [Classic Start](https://github.com/passionate-coder/Classic-Start) - Use Start Menu and Explorer like it's 2000. [![Open-Source Software][OSS Icon]](https://github.com/passionate-coder/Classic-Start) ![Freeware][Freeware Icon]
 - [Clover](http://en.ejie.me/) - Add multi-tab functionality to Windows Explorer. ![Freeware][Freeware Icon]
 - [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - Per application volume control from the system tray. [![Open-Source Software][OSS Icon]](https://github.com/TranslucentTB/TranslucentTB) ![Freeware][Freeware Icon]
+- [Open-Shell](https://github.com/Open-Shell/Open-Shell-Menu) - Reborn of Classic Shell. [![Open-Source Software][OSS Icon]](https://github.com/Open-Shell/Open-Shell-Menu) ![Freeware][Freeware Icon]
 - [QTTabBar](http://qttabbar.wikidot.com/) - Extends Explorer by tabs and extra folder views. ![Freeware][Freeware Icon]
 - [Rainmeter](https://www.rainmeter.net/) - Rainmeter allows you to display customizable skins on your desktop, from hardware usage meters to fully functional audio visualizers. [![Open-Source Software][OSS Icon]](https://github.com/rainmeter/rainmeter) ![Freeware][Freeware Icon]
 - [Search Deflector](https://github.com/spikespaz/search-deflector) - A small program that redirects searches made from the Windows Start Menu or Cortana to whatever browser and search engine you prefer. [![Open-Source Software][OSS Icon]](https://github.com/rainmeter/rainmeter) ![Freeware][Freeware Icon]
