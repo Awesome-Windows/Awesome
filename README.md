@@ -274,6 +274,7 @@
 - [Total Commander](https://www.ghisler.com/) - The best file manager for Windows.
 - [WordWeb](http://wordweb.info/) - A very good English dictionary for windows. ![Freeware][Freeware Icon]
 - [Wox](http://www.wox.one/) - An effective launcher for windows. [![Open-Source Software][OSS Icon]](https://github.com/Wox-launcher/Wox/) ![Freeware][Freeware Icon]
+- [Typora](https://www.typora.io/) - Simple Markdown Editor, with a real live preview. ![Freeware][Freeware Icon]
 
 
 ### Terminal
