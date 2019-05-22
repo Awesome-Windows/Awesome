@@ -187,7 +187,6 @@
 - [Notepad2](http://www.flos-freeware.ch/notepad2.html) - 用于替代默认文本编辑器的轻量快速的编辑器，拥有众多有用的功能。![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 - [Sublime Text 3](http://www.sublimetext.com/3) - 高级文本编辑器。
 - [Visual Studio Code](https://code.visualstudio.com/) - 用于构建和调试现代Web和云应用程序。 [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) ![Freeware][Freeware Icon]
-- [Typora](https://www.typora.io/) - 极致简洁的 Markdown 编辑器，所见即所得。![Freeware][Freeware Icon]
 
 ### 集成开发环境
 - [Android Studio](https://developer.android.com/studio/index.html) - Android 的官方 IDE , 基于 IntelliJ 的 IDEA。 [![Open-Source Software][OSS Icon]](https://sites.google.com/a/android.com/tools/) ![Freeware][Freeware Icon]
@@ -240,8 +239,8 @@
 - [Total Commander](https://www.ghisler.com/) - Windows 上最佳的文件管理器。
 - [WordWeb](http://wordweb.info/) - Windows 上很好的英文词典。 ![Freeware][Freeware Icon]
 - [Wox](http://www.getwox.com/) - Windows 上效果优异的快捷启动应用。 [![Open-Source Software][OSS Icon]](https://github.com/Wox-launcher/Wox/) ![Freeware][Freeware Icon]  
-[xoring](https://www.xoring.com/) 一款基于番茄工作法的时间管理工具
-
+- [xoring](https://www.xoring.com/) 一款基于番茄工作法的时间管理工具
+- [Typora](https://www.typora.io/) - 极致简洁的 Markdown 编辑器，所见即所得。![Freeware][Freeware Icon]
 
 ### 终端
 - [Babun](http://babun.github.io/) - 基于 Cygwin，用于替代 Windows shell。
