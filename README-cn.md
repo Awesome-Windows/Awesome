@@ -227,6 +227,7 @@
 - [Everything](http://www.voidtools.com/) - 最快的文件/文件夹搜索工具， 通过名称搜索。
 - [f.lux](http://stereopsis.com/flux/) - 自动调整您的计算机屏幕亮度以适应当前环境亮度。 ![Freeware][Freeware Icon]
 - [Inkdrop](https://www.inkdrop.info/) - Markdown爱好者的笔记应用程序。
+- [boostnote](https://boostnote.io/) - 专为开发者设计的开源笔记软件
 - [KatMouse](http://www.ehiti.de/katmouse/) - 用于在 Windows 上提供全局滚动效果：滚动时不需要先激活/点击窗口（类似 macOS 和 Linux 上的效果）。 ![Freeware][Freeware Icon]
 - [Keypirinha](http://keypirinha.com/) - 一个提供给Windows键盘党的快速启动器。你可以把它当成 *Launchy* 的替代品和 *Alfred* 的表兄弟。![Freeware][Freeware Icon]
 - [Launchy](http://www.launchy.net/) - 开源快捷键启动器。 [![Open-Source Software][OSS Icon]](https://github.com/OpenNingia/Launchy) ![Freeware][Freeware Icon]
@@ -266,6 +267,7 @@
 - [Ext2Fsd](http://www.ext2fsd.com/) - 轻松在Windows系统下挂载EXT3/4文件系统。[![Open-Source Software][OSS Icon]](https://github.com/matt-wu/Ext3Fsd) ![Freeware][Freeware Icon]
 - [Far](http://www.farmanager.com/index.php?l=en) -文件和归档管理器。克隆自诺顿指挥官。 [![Open-Source Software][OSS Icon]](http://sourceforge.net/projects/farmanager/)
 - [Fraps](http://www.fraps.com/)- 视频游戏屏幕录制机，可用于所有使用 DirectX 或 OpenGL 技术的游戏。
+- [Captura](https://github.com/MathewSachin/Captura) 开源小巧的面向电脑、摄像头视频录制软件
 - [FreeFileSync](http://www.freefilesync.org/) - 文件和文件夹的简单备份解决方案，它支持源和目标之间的镜像/双向同步/更新。
 - [Glary Utilities](http://www.glarysoft.com/) - 提供许多ccleaner中没有的更高级的功能。
 - [GPU-Z](http://www.techpowerup.com/gpuz/) - 免费且功能齐全的 GPU 监控工具。 ![Freeware][Freeware Icon]
