@@ -105,7 +105,7 @@
 - [PartitionGuru｜Eassos Recovery](http://www.eassos.com/) - Data recovery with partition recovery. ![Freeware][Freeware Icon]
 - [Recuva](https://www.piriform.com/recuva) - Recover your deleted files quickly and easily.
 - [Stellar Phoenix Windows Data Recovery](http://www.stellarinfo.com/windows-data-recovery.php) - Remote recovery option to recover data from another computer over a network.
-- [TestDisk](http://www.cgsecurity.org/wiki/TestDisk) -  Powerful free data recovery software primarily designed to help recover lost partitions and/or make non-booting disks bootable again.
+- [TestDisk](http://www.cgsecurity.org/wiki/TestDisk) -  Powerful free data recovery software primarily designed to help recover lost partitions and/or make non-booting disks bootable again. [![Open-Source Software][OSS Icon]](https://github.com/cgsecurity/testdisk) ![Freeware][Freeware Icon]
 
 ### Developer Tools
 
