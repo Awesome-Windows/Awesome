@@ -79,6 +79,7 @@
 - [PeaZip](http://www.peazip.org/) - 归档器和文件压缩器。 提取7Z CAB ISO RAR TAR ZIP归档文件。 ![Freeware][Freeware Icon]
 - [Riot](http://luci.criosweb.ro/riot/) -通过文件大小或许多其他图像属性压缩图像。 ![Freeware][Freeware Icon]
 - [WinRAR](http://www.rarlab.com/) -  强大的归档管理器。 它可以备份您的数据并减小电子邮件附件的大小，解压缩RAR，ZIP和其他文件。
+- [360ZIP](http://yasuo.360.cn/#info_7) - 一款致力于不平凡的压缩软件
 
 ### 个性化
 - [7+ Taskbar Tweaker](http://rammichael.com/7-taskbar-tweaker) - 允许定制和扩展 Windows 任务栏的功能，借以提高生产力。![Freeware][Freeware Icon]
