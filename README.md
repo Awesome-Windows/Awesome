@@ -260,6 +260,7 @@
 - [Everything](http://www.voidtools.com/) - The fastest file/folder search tool by name.
 - [Executor.dk](http://executor.dk/) - A free multi purpose customizable and light-weight launcher. ![Freeware][Freeware Icon]
 - [f.lux](http://stereopsis.com/flux/) - Automatically adjust your computer screen to match lighting. ![Freeware][Freeware Icon]
+- [GoldenDict](http://goldendict.org/) - A feature-rich dictionary lookup program, supporting multiple dictionary formats and online dictionaries. [![Open-Source Software][OSS Icon]](https://github.com/goldendict/goldendict) ![Freeware][Freeware Icon]
 - [Inkdrop](https://www.inkdrop.info/) - The note-taking app for Markdown lovers.
 - [KatMouse](http://www.ehiti.de/katmouse/) - Utility that enables "universal scrolling" in Windows: scrolling does not need the window to be active/clicked first (i.e. how it works in macOS and Linux) ![Freeware][Freeware Icon]
 - [Keypirinha](http://keypirinha.com/) - A fast launcher for keyboard ninjas on Windows. You can think of Keypirinha as an alternative to *Launchy* and a cousin of *Alfred*. ![Freeware][Freeware Icon]
