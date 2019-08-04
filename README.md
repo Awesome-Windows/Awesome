@@ -189,6 +189,7 @@
 - [GOG](https://www.gog.com/) - DRM-free game store with a lot of old games but also has a rich collection of new games.
 - [Itch.io](https://itch.io/app/) - Install, update and play indie games. [![Open-Source Software][OSS Icon]](https://github.com/itchio/itch) ![Freeware][Freeware Icon]
 - [LuaStudio](http://scormpool.com/luastudio) - Free game development tool/engine. Create games and other graphic focused apps on Windows using Lua/LuaJIT programming language. Export them to many platforms including iOS, Android and Mac.
+- [Lucas Chess](https://lucaschess.pythonanywhere.com/) - a GUI of chess to learn to play chess and to play chess against engines. [![Open-Source Software][OSS Icon]](https://github.com/lukasmonk/lucaschess) ![Freeware][Freeware Icon]
 - [Origin](https://www.origin.com/en-in/store/) - Like Steam, but for EA.
 - [Steam](http://store.steampowered.com/) -  Largest online video game retailer. Desktop app allows you to organise your library of games and play them at any time. But you already knew that.
 - [Unity](https://unity3d.com/) - Free game engine. Easy to pick up and use with a number of tutorials.
