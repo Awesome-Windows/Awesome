@@ -206,6 +206,7 @@
 
 ### Text Editors
 
+- [Abricotine](http://abricotine.brrd.fr/) - An open source and cross-platform WYSIWYG Markdown editor. [![Open-Source Software][OSS Icon]](https://github.com/brrd/Abricotine) ![Freeware][Freeware Icon]
 - [Atom](https://atom.io/) - A hackable text editor for the 21st Century. [![Open-Source Software][OSS Icon]](https://github.com/atom/atom) ![Freeware][Freeware Icon]
 - [Brackets](http://brackets.io/) - A modern, open source text editor that understands web design. [![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets) ![Freeware][Freeware Icon]
 - [GVim](http://www.vim.org/download.php#pc) - (G)Vim is a highly configurable text editor built to enable efficient text editing. [![Open-Source Software][OSS Icon]](https://github.com/vim/vim) ![Freeware][Freeware Icon]

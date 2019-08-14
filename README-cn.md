@@ -178,6 +178,7 @@
 - [Snipaste](https://zh.snipaste.com/) 一款高效率功能全面的截图软件  ![Open-Source Software][OSS Icon]
 
 ### 文本编辑器
+- [Abricotine](http://abricotine.brrd.fr/) - 一个开源和跨平台的WYSIWYG Markdown编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/brrd/Abricotine) ![Freeware][Freeware Icon]
 - [Atom](https://atom.io/) - 面向21世纪的极客文本编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/atom/atom) ![Freeware][Freeware Icon]
 - [Brackets](http://brackets.io/) - 一款擅长网页设计的现代，开源文本编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets) ![Freeware][Freeware Icon]
 - [GVim](http://www.vim.org/download.php#pc) - （G）Vim是一款高度可配置的文本编辑器，用于高效的文本编辑。 [![Open-Source Software][OSS Icon]](https://github.com/vim/vim) ![Freeware][Freeware Icon]
