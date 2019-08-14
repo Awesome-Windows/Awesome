@@ -285,6 +285,7 @@
 - [SpaceMonger](https://spacemonger.en.softonic.com/download) - 一款图形化程序，可根据文件和目录的大小将其显示为不同大小的块。
 - [Speccy](https://www.piriform.com/speccy) - 显示你计算机中每个硬件的详细统计信息。
 - [Sysinternals Suite](https://technet.microsoft.com/en-us/sysinternals/bb842062) - 由Mark Russinovich提供的工具套件，提供对 Windows 进程，物理端口，磁盘活动等构件的访问以进行故障排除。
+- [TCP Optimizer](https://www.speedguide.net/downloads.php) - 使用默认最佳值自动优化您的互联网连接，或手动微调和测试。 ![Freeware][Freeware Icon]
 - [Unlocker](http://www.softpedia.com/get/System/System-Miscellaneous/Unlocker.shtml) - 解除无法删除文件的锁定。
 - [Waltr](http://softorino.com/waltr/) - 不依靠 iTunes 将任何电影或音乐文件传输到iPhone。
 - [WinDirStat](https://windirstat.info/) - 磁盘使用情况查看器和清洁器。
