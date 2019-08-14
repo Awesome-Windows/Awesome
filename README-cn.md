@@ -60,8 +60,9 @@
 - [Qtractor](http://qtractor.sourceforge.net/qtractor-index.html#Downloads) -音频/MIDI多轨音序器。[![Open-Source Software][OSS Icon]](http://qtractor.sourceforge.net/qtractor-downloads.html#Git) ![Freeware][Freeware Icon]
 - [Reaper](http://www.reaper.fm/download.php) - 功能深入却轻量的程序, 以$60的价格提供给个人，非营利机构或小型企业使用。
 - [Resonic](https://resonic.at/) - 免费快速的音频播放器。
-- [VLC](http://www.videolan.org/vlc/index.html) - 免费媒体播放器，工作相当不错。
-- [Winamp](http://www.winamp.com/) - 能播放MP3，MP2，WAV，VOCAls和MIDI文件的音乐播放器。![Freeware][Freeware Icon]
+- [Video Duplicate Finder (VDF)](https://github.com/0x90d/videoduplicatefinder) - 跨平台视频和图像通过类似内容复制查找器（可以是不同的分辨率，质量，水印...）。 [![Open-Source Software][OSS Icon]](https://github.com/0x90d/videoduplicatefinder) ![Freeware][Freeware Icon]
+- [VLC](http://www.videolan.org/vlc/index.html) - 免费媒体播放器，工作相当不错。 [![Open-Source Software][OSS Icon]](https://github.com/NickeManarin/ScreenToGif/) ![Freeware][Freeware Icon]
+- [Winamp](http://www.winamp.com/) - 能播放MP3，MP2，WAV，VOCAls和MIDI文件的音乐播放器。
 
 ### 聊天客户端
 - [Discord](https://discordapp.com) - Discord是免费的语音和文本聊天客户端，适合玩家和非玩家。您可以从浏览器使用它，它可以在iOS，Android，Windows，Mac和Linux上使用。 ![Freeware][Freeware Icon]
