@@ -230,6 +230,7 @@
 - [RubyMine](https://www.jetbrains.com/ruby/) - An intelligent Ruby IDE that supports many modern frameworks.
 - [Visual Studio](https://www.visualstudio.com/vs/) - Microsofts official IDE. Supports a multitude of languages via plugins.
 - [WebStorm](https://www.jetbrains.com/webstorm/) - A smart JavaScript IDE that uses the full power of the modern JavaScript ecosystem.
+- [Typora](https://www.typora.io/) - Simple Markdown Editor, with a real live preview. ![Freeware][Freeware Icon]
 
 ### Online Storage
 
@@ -274,7 +275,6 @@
 - [Total Commander](https://www.ghisler.com/) - The best file manager for Windows.
 - [WordWeb](http://wordweb.info/) - A very good English dictionary for windows. ![Freeware][Freeware Icon]
 - [Wox](http://www.wox.one/) - An effective launcher for windows. [![Open-Source Software][OSS Icon]](https://github.com/Wox-launcher/Wox/) ![Freeware][Freeware Icon]
-- [Typora](https://www.typora.io/) - Simple Markdown Editor, with a real live preview. ![Freeware][Freeware Icon]
 
 
 ### Terminal
