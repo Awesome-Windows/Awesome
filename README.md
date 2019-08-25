@@ -179,7 +179,7 @@
 - [Nylas Mail](https://www.nylas.com/download/) - An extensible desktop mail app built on the modern web. [![Open-Source Software][OSS Icon]](https://github.com/nylas/N1) ![Freeware][Freeware Icon]
 - [Postbox](https://postbox-inc.com/) - The Power Email App
 - [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Email client with minimalistic design. [![Open-Source Software][OSS Icon]](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Build_Instructions/Simple_Thunderbird_build) ![Freeware][Freeware Icon]
-- [eM Client](https://de.emclient.com/?lang=de) A professional and fast customizable mail client built for Windows.
+- [eM Client](https://de.emclient.com/?lang=de) - A professional and fast customizable mail client built for Windows.
 
 ### Games
 
