@@ -139,7 +139,8 @@
 - [Robo 3T](https://robomongo.org/) - A lightweight GUI for MongoDB enthusiasts.
 - [SourceTree](https://www.sourcetreeapp.com/) - A free Git & Mercurial client.
 - [Sql Wave](http://www.valentina-db.com/en/sqlwave) - A MySQL database manager.
-- [SSLyog](https://www.webyog.com/) - A powerful MySQL administration tool
+- [SSLyog](https://www.webyog.com/) - A powerful MySQL administration tool.
+- [TablePlus](https://tableplus.com/windows) - A modern, native GUI tool for multiple databases.
 - [TailBlazer](https://github.com/RolandPheasant/TailBlazer) - A small fast tool for browsing through logs [![Open-Source Software][OSS Icon]](https://github.com/RolandPheasant/TailBlazer) ![Freeware][Freeware Icon]
 - [TortoiseGit](https://tortoisegit.org/) - Git client with full shell integration. [![Open-Source Software][OSS Icon]](https://github.com/tortoisegit/tortoisegit/) ![Freeware][Freeware Icon]
 - [TortoiseSVN](https://tortoisesvn.net/) - Subversion client with full shell integration. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/tortoisesvn/) ![Freeware][Freeware Icon]
