@@ -194,6 +194,7 @@
 - [Unity](https://unity3d.com/) - Free game engine. Easy to pick up and use with a number of tutorials.
 - [Unreal Engine](https://www.unrealengine.com/what-is-unreal-engine-4) - Another free game engine. Lots of documentation and easier to pick up, but you pay 5% royalties to Unreal when you make money from UE-based games.
 - [Warsow](https://www.warsow.net/) - Free & fast-paced FPS game for Windows. ![Freeware][Freeware Icon]
+- [Xenko](https://www.xenko.com/) - Free open source game engine. Similar to Unity, uses WPF for its editor and supports Vulkan. [![Open-Source Software][OSS Icon]](https://github.com/xenko3d/xenko) ![Freeware][Freeware Icon]
 
 ### Graphics
 
