@@ -106,75 +106,75 @@
 ### 开发者工具
 
 - [Addict](https://github.com/dthree/addict) - Active Directory的嵌入式REST API。
-- [Cacher](https://www.cacher.io/）-具有Gist同步，VSCode / Atom / Sublime软件包和功能齐全的Web客户端的基于云的，团队启用的代码段管理器。
-- [用于SQLite的数据库浏览器](http://sqlitebrowser.org/）-用于创建，设计和编辑与SQLite兼容的数据库文件的高质量，可视，开放源代码工具[！[开源软件] [OSS图标] ]（http://sqlitebrowser.org/）
-- [ExtendsClass](https://extendsclass.com/）-开发人员的在线工具（REST / SOAP客户端，SQLite浏览器，Regex测试器，XPath测试器）！[免费软件] [免费软件图标]
-- [Fiddler](http://www.telerik.com/fiddler）-Web调试代理。
-- [FileZilla](https://filezilla-project.org/）-FTP，FTPS和SFTP客户端。 [！[开源软件] [OSS图标]]（https://download.filezilla-project.org/client/）！[免费软件] [免费软件图标]
-- [Fork](https://git-fork.com/）-适用于Windows（和Mac）的快速友好的Git客户端。 ！[免费软件] [免费软件图标]
-- [Git扩展程序](https://gitextensions.github.io/）-一个功能强大且易于使用的Git UI。 [！[开源软件] [OSS图标]]（https://github.com/gitextensions/gitextensions）！[免费软件] [免费软件图标]
-- [GitHub Desktop](https://desktop.github.com/）-GitHub Desktop是一个基于Electron的开源GitHub应用。 [！[开源软件] [OSS图标]]（https://github.com/desktop/desktop）！[免费软件] [免费软件图标]
-- [GitKraken](https://www.gitkraken.com/）-一个漂亮的跨平台Git客户。 ！[免费软件] [免费软件图标]
-- [HeidiSQL](http://www.heidisql.com/）-适用于MySQL，MariaDB，Microsoft SQL Server和PostgreSQL的强大易用的客户端。
-- [HTTP工具包](https://httptoolkit.tech）-HTTP调试和模拟工具。 [！[开源软件] [OSS图标]]（https://github.com/httptoolkit）！[免费软件] [免费软件图标]
-- [仅休息](https://github.com/SwensenSoftware/im-only-resting）-基于WinForms的功能丰富的HTTP客户端[！[开源软件] [OSS图标]]（https ：//github.com/swensensoftware/im-only-resting）！[免费软件] [免费软件图标]
-- [Insomnia](http://insomnia.rest）-具有漂亮界面的现代REST客户端。 ！[开源软件] [OSS图标]！[免费软件] [免费软件图标]
-- [Keylord](https://protonail.com/products/keylord）用于Redis，LevelDB和Memcached键值数据库的跨平台GUI客户端。
-- [Mamp](https://www.mamp.info/en/）-本地服务器环境。 ！[免费软件] [免费软件图标]
-- [合并](http://meldmerge.org/）-视觉差异和合并工具。 [！[开源软件] [OSS图标]]（https://gitlab.gnome.org/GNOME/meld/）！[免费软件] [免费软件图标]
-- [NSudo](https://github.com/M2Team/NSudo/）-强大的系统管理工具。 [！[开源软件] [OSS图标]]（https://github.com/M2Team/NSudo/）
-- [Open Server](https://ospanel.io/）-便携式服务器平台和软件环境（例如MAMP，XAMPP，WAMP，非常用户友好）。 ！[免费软件] [免费软件图标]
-- [Pixie](http://www.nattyware.com/pixie.php）-适用于开发人员的简单颜色选择器。
-- [pngquant](https://pngquant.org/）-使用或wi在PNG文件上应用有损压缩
-- [PostgreSQL数据库](http://wiki.postgresql.org/wiki/Community_Guide_to_PostgreSQL_GUI_Tools）-全面的工具列表。
-- [邮递员](https://www.getpostman.com/postman）-REST客户端具有直观的用户界面，可以发送请求，保存响应，添加测试以及创建工作流。
-- [流程浏览器](https://technet.microsoft.com/zh-cn/sysinternals/processexplorer.aspx）-强大的任务管理器。 ！[免费软件] [免费软件图标]
-- [Process Hacker](http://processhacker.sourceforge.net/）-出色的全面任务管理器。
-- [进程监视器](https://docs.microsoft.com/zh-cn/sysinternals/downloads/procmon）-sysinternal工具显示实时文件系统，注册表，网络和进程/线程活动。 ！[免费软件] [免费软件图标]
-- [RazorSQL](http://www.razorsql.com/）-用于管理SQLite数据库的GUI，需要进行大量工作。
-- [Redis Desktop Manager](http://redisdesktop.com/）跨平台的开源Redis DB管理工具。
-- [Robo 3T](https://robomongo.org/）-适用于MongoDB爱好者的轻量级GUI。
-- [SourceTree](https://www.sourcetreeapp.com/）-免费的Git和Mercurial客户。
-- [Sql Wave](http://www.valentina-db.com/en/sqlwave）-一个MySQL数据库管理器。
-- [SSLyog]（https://www.webyog.com/）-强大的MySQL管理工具
-- [TailBlazer]（https://github.com/RolandPheasant/TailBlazer）-一种用于浏览日志的小型快速工具[！[开源软件] [OSS图标]]（https://github.com/RolandPheasant/ TailBlazer）！[免费软件] [免费软件图标]
-- [TortoiseGit]（https://tortoisegit.org/）-具有完整Shell集成的Git客户端。 [！[开源软件] [OSS图标]]（https://github.com/tortoisegit/tortoisegit/）！[免费软件] [免费软件图标]
-- [塔]（https://www.git-tower.com/windows）-塔-Mac和Windows上功能最强大的Git客户端。
-- [Vagrant]（https://www.vagrantup.com/）-用于构建和管理虚拟机的工具。 [！[开源软件] [OSS图标]]（https://github.com/mitchellh/vagrant）
-- [速度]（http://velocity.silverlakesoftware.com/）-脱机API文档工具。 （例如适用于macOS的[Dash]（https://kapeli.com/dash））
-- [Visual Studio代码]（https://code.visualstudio.com/）-轻量级源代码编辑器。 [！[开源软件] [OSS图标]]（https://github.com/Microsoft/vscode）！[免费软件] [免费软件图标]
-- [Visual Studio]（https://www.visualstudio.com/）-最终的Microsoft开发人员工具。
-- [Wamp]（http://www.wampserver.com/en/）-Web开发环境。
-- [WinSCP]（https://winscp.net/）-免费的开源SFTP，FTP，WebDAV和SCP客户端。 ！[免费软件] [免费软件图标]
-- [Wireshark]（https://www.wireshark.org/）-网络协议分析器。 [！[开源软件] [OSS图标]]（https://www.wireshark.org/docs/wsdg_html_chunked/ChIntroDevelopment.html）！[免费软件] [免费软件图标]
-- [WMI资源管理器]（https://github.com/vinaypamnani/wmie2/）-提供在单个视图窗格中浏览和查看WMI名称空间/类/实例/属性的功能。 [！[开源软件] [OSS图标]]（https://github.com/vinaypamnani/wmie2/）
-- [Xampp]（https://www.apachefriends.org/index.html）-Apache驱动的Web开发环境。 ！[免费软件] [免费软件图标]
-- [Xftp 5]（https://www.netsarang.com/products/xfp_overview.html）-灵活轻便的SFTP / FTP客户端。 ！[免费软件] [免费软件图标]
-- [Zsh]（http://www.zsh.org/）-功能强大的命令行外壳。 [！[开源软件] [OSS图标]]（http://sourceforge.net/p/zsh/code/ci/master/tree/）！[免费软件] [免费软件图标]
+- [Cacher](https://www.cacher.io/) -具有Gist同步，VSCode / Atom / Sublime软件包和功能齐全的Web客户端的基于云的，团队启用的代码段管理器。
+- [用于SQLite的数据库浏览器](http://sqlitebrowser.org/) -用于创建，设计和编辑与SQLite兼容的数据库文件的高质量，可视，开放源代码工具[！[开源软件] [OSS图标] ](http://sqlitebrowser.org/)
+- [ExtendsClass](https://extendsclass.com/) -开发人员的在线工具(REST / SOAP客户端，SQLite浏览器，Regex测试器，XPath测试器)！[免费软件] [免费软件图标]
+- [Fiddler](http://www.telerik.com/fiddler) -Web调试代理。
+- [FileZilla](https://filezilla-project.org/) -FTP，FTPS和SFTP客户端。 [！[开源软件] [OSS图标]](https://download.filezilla-project.org/client/)！[免费软件] [免费软件图标]
+- [Fork](https://git-fork.com/) -适用于Windows(和Mac)的快速友好的Git客户端。 ！[免费软件] [免费软件图标]
+- [Git扩展程序](https://gitextensions.github.io/) -一个功能强大且易于使用的Git UI。 [！[开源软件] [OSS图标]](https://github.com/gitextensions/gitextensions)！[免费软件] [免费软件图标]
+- [GitHub Desktop](https://desktop.github.com/) -GitHub Desktop是一个基于Electron的开源GitHub应用。 [！[开源软件] [OSS图标]](https://github.com/desktop/desktop)！[免费软件] [免费软件图标]
+- [GitKraken](https://www.gitkraken.com/) -一个漂亮的跨平台Git客户。 ！[免费软件] [免费软件图标]
+- [HeidiSQL](http://www.heidisql.com/) -适用于MySQL，MariaDB，Microsoft SQL Server和PostgreSQL的强大易用的客户端。
+- [HTTP工具包](https://httptoolkit.tech) -HTTP调试和模拟工具。 [！[开源软件] [OSS图标]](https://github.com/httptoolkit)！[免费软件] [免费软件图标]
+- [仅休息](https://github.com/SwensenSoftware/im-only-resting) -基于WinForms的功能丰富的HTTP客户端[！[开源软件] [OSS图标]](https ：//github.com/swensensoftware/im-only-resting)！[免费软件] [免费软件图标]
+- [Insomnia](http://insomnia.rest) -具有漂亮界面的现代REST客户端。 ！[开源软件] [OSS图标]！[免费软件] [免费软件图标]
+- [Keylord](https://protonail.com/products/keylord)用于Redis，LevelDB和Memcached键值数据库的跨平台GUI客户端。
+- [Mamp](https://www.mamp.info/en/) -本地服务器环境。 ！[免费软件] [免费软件图标]
+- [合并](http://meldmerge.org/) -视觉差异和合并工具。 [！[开源软件] [OSS图标]](https://gitlab.gnome.org/GNOME/meld/)！[免费软件] [免费软件图标]
+- [NSudo](https://github.com/M2Team/NSudo/) -强大的系统管理工具。 [！[开源软件] [OSS图标]](https://github.com/M2Team/NSudo/)
+- [Open Server](https://ospanel.io/) -便携式服务器平台和软件环境(例如MAMP，XAMPP，WAMP，非常用户友好)。 ！[免费软件] [免费软件图标]
+- [Pixie](http://www.nattyware.com/pixie.php) -适用于开发人员的简单颜色选择器。
+- [pngquant](https://pngquant.org/) -使用或wi在PNG文件上应用有损压缩
+- [PostgreSQL数据库](http://wiki.postgresql.org/wiki/Community_Guide_to_PostgreSQL_GUI_Tools) -全面的工具列表。
+- [邮递员](https://www.getpostman.com/postman) -REST客户端具有直观的用户界面，可以发送请求，保存响应，添加测试以及创建工作流。
+- [流程浏览器](https://technet.microsoft.com/zh-cn/sysinternals/processexplorer.aspx) -强大的任务管理器。 ！[免费软件] [免费软件图标]
+- [Process Hacker](http://processhacker.sourceforge.net/) -出色的全面任务管理器。
+- [进程监视器](https://docs.microsoft.com/zh-cn/sysinternals/downloads/procmon) -sysinternal工具显示实时文件系统，注册表，网络和进程/线程活动。 ！[免费软件] [免费软件图标]
+- [RazorSQL](http://www.razorsql.com/) -用于管理SQLite数据库的GUI，需要进行大量工作。
+- [Redis Desktop Manager](http://redisdesktop.com/)跨平台的开源Redis DB管理工具。
+- [Robo 3T](https://robomongo.org/) -适用于MongoDB爱好者的轻量级GUI。
+- [SourceTree](https://www.sourcetreeapp.com/) -免费的Git和Mercurial客户。
+- [Sql Wave](http://www.valentina-db.com/en/sqlwave) -一个MySQL数据库管理器。
+- [SSLyog](https://www.webyog.com/) -强大的MySQL管理工具
+- [TailBlazer](https://github.com/RolandPheasant/TailBlazer) -一种用于浏览日志的小型快速工具[！[开源软件] [OSS图标]](https://github.com/RolandPheasant/ TailBlazer)！[免费软件] [免费软件图标]
+- [TortoiseGit](https://tortoisegit.org/) -具有完整Shell集成的Git客户端。 [！[开源软件] [OSS图标]](https://github.com/tortoisegit/tortoisegit/)！[免费软件] [免费软件图标]
+- [塔](https://www.git-tower.com/windows) -塔-Mac和Windows上功能最强大的Git客户端。
+- [Vagrant](https://www.vagrantup.com/) -用于构建和管理虚拟机的工具。 [！[开源软件] [OSS图标]](https://github.com/mitchellh/vagrant)
+- [速度](http://velocity.silverlakesoftware.com/) -脱机API文档工具。 (例如适用于macOS的[Dash](https://kapeli.com/dash)
+- [Visual Studio代码](https://code.visualstudio.com/) -轻量级源代码编辑器。 [！[开源软件] [OSS图标]](https://github.com/Microsoft/vscode)！[免费软件] [免费软件图标]
+- [Visual Studio](https://www.visualstudio.com/) -最终的Microsoft开发人员工具。
+- [Wamp](http://www.wampserver.com/en/) -Web开发环境。
+- [WinSCP](https://winscp.net/) -免费的开源SFTP，FTP，WebDAV和SCP客户端。 ！[免费软件] [免费软件图标]
+- [Wireshark](https://www.wireshark.org/) -网络协议分析器。 [！[开源软件] [OSS图标]](https://www.wireshark.org/docs/wsdg_html_chunked/ChIntroDevelopment.html)！[免费软件] [免费软件图标]
+- [WMI资源管理器](https://github.com/vinaypamnani/wmie2/) -提供在单个视图窗格中浏览和查看WMI名称空间/类/实例/属性的功能。 [！[开源软件] [OSS图标]](https://github.com/vinaypamnani/wmie2/)
+- [Xampp](https://www.apachefriends.org/index.html) -Apache驱动的Web开发环境。 ！[免费软件] [免费软件图标]
+- [Xftp 5](https://www.netsarang.com/products/xfp_overview.html) -灵活轻便的SFTP / FTP客户端。 ！[免费软件] [免费软件图标]
+- [Zsh](http://www.zsh.org/) -功能强大的命令行外壳。 [！[开源软件] [OSS图标]](http://sourceforge.net/p/zsh/code/ci/master/tree/)！[免费软件] [免费软件图标]
 
 ### 文档
 
-- [FreeOffice]（http://www.freeoffice.com/en/）-FreeOffice是一个完整的办公套件，带有文字处理器，电子表格应用程序和演示程序，所有套件均与Microsoft Office中的同类产品兼容。 ！[免费软件] [免费软件图标]
-- [LibreOffice]（https://www.libreoffice.org/）-开源办公套件。 [！[开源软件] [OSS图标]]（https://www.libreoffice.org/about-us/source-code/）！[免费软件] [免费软件图标]
-- [Microsoft Office]（http://www.office.com）-微软自己的生产力套件。
-- [NitroPDF]（https://www.gonitro.com/pdf-reader）-您将获得的最佳PDF阅读器。
-- [OnlyOffice]（https://www.onlyoffice.com/）-最完整，功能最丰富的办公和生产力套件。 ！[免费软件] [免费软件图标]
-- [OpenOffice]（https://www.openoffice.org/）-用于文字处理，电子表格，演示文稿，图形，数据库等的软件套件。 [！[开源软件] [OSS图标]]（http://openoffice.apache.org/source.html）！[免费软件] [免费软件图标]
-- [Sumatra PDF]（http://www.sumatrapdfreader.org/free-pdf-reader.html）-PDF，ePub，MOBI，CHM，XPS，DjVu，CBZ，CBR阅读器。 [！[开源软件] [OSS图标]]（https://github.com/sumatrapdfreader/sumatrapdf）！[免费软件] [免费软件图标]
-- [WPS Office]（https://www.wps.com/office-free）-完美的免费办公软件！[免费软件] [免费软件图标]
+- [FreeOffice](http://www.freeoffice.com/en/) -FreeOffice是一个完整的办公套件，带有文字处理器，电子表格应用程序和演示程序，所有套件均与Microsoft Office中的同类产品兼容。 ！[免费软件] [免费软件图标]
+- [LibreOffice](https://www.libreoffice.org/) -开源办公套件。 [！[开源软件] [OSS图标]](https://www.libreoffice.org/about-us/source-code/)！[免费软件] [免费软件图标]
+- [Microsoft Office](http://www.office.com) -微软自己的生产力套件。
+- [NitroPDF](https://www.gonitro.com/pdf-reader) -您将获得的最佳PDF阅读器。
+- [OnlyOffice](https://www.onlyoffice.com/) -最完整，功能最丰富的办公和生产力套件。 ！[免费软件] [免费软件图标]
+- [OpenOffice](https://www.openoffice.org/) -用于文字处理，电子表格，演示文稿，图形，数据库等的软件套件。 [！[开源软件] [OSS图标]](http://openoffice.apache.org/source.html)！[免费软件] [免费软件图标]
+- [Sumatra PDF](http://www.sumatrapdfreader.org/free-pdf-reader.html) -PDF，ePub，MOBI，CHM，XPS，DjVu，CBZ，CBR阅读器。 [！[开源软件] [OSS图标]](https://github.com/sumatrapdfreader/sumatrapdf)！[免费软件] [免费软件图标]
+- [WPS Office](https://www.wps.com/office-free) -完美的免费办公软件！[免费软件] [免费软件图标]
 
 ### 电子书实用程序
-- [Bookviser]（http://apps.microsoft.com/windows/zh-cn/app/bookviser-reader/42d4527a-b1fe-479b-ad04-150303dc056f）-Windows 8设备的出色应用程序，可轻松读取电子书 办法。 ！[免费软件] [免费软件图标]
-- [Calibre]（http://calibre-ebook.com/）-用于电子书管理和转换的强大软件。 [！[开源软件] [OSS图标]]（http://calibre-ebook.com/get-involved）！[免费软件] [免费软件图标]
-- [kobo]（https://www.kobo.com/desktop）-用于电子书管理和转换的极其丑陋但功能强大的软件。 ！[免费软件] [免费软件图标]
+- [Bookviser](http://apps.microsoft.com/windows/zh-cn/app/bookviser-reader/42d4527a-b1fe-479b-ad04-150303dc056f) -Windows 8设备的出色应用程序，可轻松读取电子书 办法。 ！[免费软件] [免费软件图标]
+- [Calibre](http://calibre-ebook.com/) -用于电子书管理和转换的强大软件。 [！[开源软件] [OSS图标]](http://calibre-ebook.com/get-involved)！[免费软件] [免费软件图标]
+- [kobo](https://www.kobo.com/desktop) -用于电子书管理和转换的极其丑陋但功能强大的软件。 ！[免费软件] [免费软件图标]
 
 ### 电子邮件
 
-- [MailBird]（https://www.mailbird.com/）-IMAP和POP3电子邮件客户端，具有自定义，完整的触摸支持和多语言支持。
-- [Mailspring]（https://getmailspring.com/）-Nylas Mail的快速维护分支，建立在现代Web技术上。 [！[开源软件] [OSS图标]]（https://github.com/Foundry376/Mailspring）！[免费软件] [免费软件图标]
-- [Nylas Mail]（https://www.nylas.com/download/）-基于现代网络构建的可扩展桌面邮件应用程序。 [！[开源软件] [OSS图标]]（https://github.com/nylas/N1）！[免费软件] [免费软件图标]
-- [邮箱]（https://postbox-inc.com/）-Power Email App
-- [Thunderbird]（https://www.mozilla.org/zh-CN/thunderbird/）-具有简约设计的电子邮件客户端。 [！[开源软件] [OSS图标]]（https://developer.mozilla.org/zh-CN/docs/Mozilla/Developer_guide/Build_Instructions/Simple_Thunderbird_build）！[免费软件] [免费软件图标]
+- [MailBird](https://www.mailbird.com/) -IMAP和POP3电子邮件客户端，具有自定义，完整的触摸支持和多语言支持。
+- [Mailspring](https://getmailspring.com/) -Nylas Mail的快速维护分支，建立在现代Web技术上。 [！[开源软件] [OSS图标]](https://github.com/Foundry376/Mailspring)！[免费软件] [免费软件图标]
+- [Nylas Mail](https://www.nylas.com/download/) -基于现代网络构建的可扩展桌面邮件应用程序。 [！[开源软件] [OSS图标]](https://github.com/nylas/N1)！[免费软件] [免费软件图标]
+- [邮箱](https://postbox-inc.com/) -Power Email App
+- [Thunderbird](https://www.mozilla.org/zh-CN/thunderbird/) -具有简约设计的电子邮件客户端。 [！[开源软件] [OSS图标]](https://developer.mozilla.org/zh-CN/docs/Mozilla/Developer_guide/Build_Instructions/Simple_Thunderbird_build)！[免费软件] [免费软件图标]
 
 ### 游戏
 - [0 A.D.](https://play0ad.com/) - 免费，开源，实时的关于古代战争的策略游戏。 [![Open-Source Software][OSS Icon]](https://github.com/0ad/0ad) ![Freeware][Freeware Icon]
@@ -200,7 +200,7 @@
 ### 文本编辑器
 - [Atom](https://atom.io/) - 面向21世纪的极客文本编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/atom/atom) ![Freeware][Freeware Icon]
 - [Brackets](http://brackets.io/) - 一款擅长网页设计的现代，开源文本编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets) ![Freeware][Freeware Icon]
-- [GVim](http://www.vim.org/download.php#pc) - （G）Vim是一款高度可配置的文本编辑器，用于高效的文本编辑。 [![Open-Source Software][OSS Icon]](https://github.com/vim/vim) ![Freeware][Freeware Icon]
+- [GVim](http://www.vim.org/download.php#pc) - (G)Vim是一款高度可配置的文本编辑器，用于高效的文本编辑。 [![Open-Source Software][OSS Icon]](https://github.com/vim/vim) ![Freeware][Freeware Icon]
 - [Light Table](http://lighttable.com/) - 具有即时反馈和显示代码中数据值的可定制的编辑器。[![Open-Source Software][OSS Icon]](https://github.com/LightTable/LightTable) ![Freeware][Freeware Icon]
 - [Neovim](https://neovim.io/) - vim真正的继任者。
 - [Notepad++](https://notepad-plus-plus.org/) - 一款支持多种编程语言的源码编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/notepad-plus-plus/notepad-plus-plus) ![Freeware][Freeware Icon]
@@ -247,7 +247,7 @@
 - [Everything](http://www.voidtools.com/) - 最快的文件/文件夹搜索工具， 通过名称搜索。
 - [f.lux](http://stereopsis.com/flux/) - 自动调整您的计算机屏幕亮度以适应当前环境亮度。 ![Freeware][Freeware Icon]
 - [Inkdrop](https://www.inkdrop.info/) - Markdown爱好者的笔记应用程序。
-- [KatMouse](http://www.ehiti.de/katmouse/) - 用于在 Windows 上提供全局滚动效果：滚动时不需要先激活/点击窗口（类似 macOS 和 Linux 上的效果）。 ![Freeware][Freeware Icon]
+- [KatMouse](http://www.ehiti.de/katmouse/) - 用于在 Windows 上提供全局滚动效果：滚动时不需要先激活/点击窗口(类似 macOS 和 Linux 上的效果)。 ![Freeware][Freeware Icon]
 - [Keypirinha](http://keypirinha.com/) - 一个提供给Windows键盘党的快速启动器。你可以把它当成 *Launchy* 的替代品和 *Alfred* 的表兄弟。![Freeware][Freeware Icon]
 - [Launchy](http://www.launchy.net/) - 开源快捷键启动器。 [![Open-Source Software][OSS Icon]](https://github.com/OpenNingia/Launchy) ![Freeware][Freeware Icon]
 - [Listary](http://www.listary.com/) - 让你的文件不离指尖。 独特的搜索实用程序。
@@ -258,7 +258,7 @@
 - [Simplenote](https://simplenote.com/) - 基于云同步的简单跨平台笔记应用程序。 ![Freeware][Freeware Icon]
 - [Total Commander](https://www.ghisler.com/) - Windows 上最佳的文件管理器。
 - [WordWeb](http://wordweb.info/) - Windows 上很好的英文词典。 ![Freeware][Freeware Icon]
-- [Wox](http://www.getwox.com/) - Windows 上效果优异的快捷启动应用。 [![Open-Source Software][OSS Icon]](https://github.com/Wox-launcher/Wox/) ![Freeware][Freeware Icon]  
+- [Wox](http://www.getwox.com/) - Windows 上效果优异的快捷启动应用。 [![Open-Source Software][OSS Icon]](https://github.com/Wox-launcher/Wox/) ![Freeware][Freeware Icon]
 [xoring](https://www.xoring.com/) 一款基于番茄工作法的时间管理工具
 
 
@@ -288,24 +288,24 @@
 - [CPU-Z](http://www.cpuid.com/softwares/cpu-z.html) - 免费且功能齐全的 CPU 监控工具。 ![Freeware][Freeware Icon]
 - [Ext2Fsd](http://www.ext2fsd.com/) - 轻松在Windows系统下挂载EXT3/4文件系统。[![Open-Source Software][OSS Icon]](https://github.com/matt-wu/Ext3Fsd) ![Freeware][Freeware Icon]
 - [Far](http://www.farmanager.com/index.php?l=en) -文件和归档管理器。克隆自诺顿指挥官。 [![Open-Source Software][OSS Icon]](http://sourceforge.net/projects/farmanager/)
-- [Fraps](http://www.fraps.com/)- 视频游戏屏幕录制机，可用于所有使用 DirectX 或 OpenGL 技术的游戏。
+- [Fraps](http://www.fraps.com/) - 视频游戏屏幕录制机，可用于所有使用 DirectX 或 OpenGL 技术的游戏。
 - [FreeFileSync](http://www.freefilesync.org/) - 文件和文件夹的简单备份解决方案，它支持源和目标之间的镜像/双向同步/更新。
 - [Glary Utilities](http://www.glarysoft.com/) - 提供许多ccleaner中没有的更高级的功能。
 - [GPU-Z](http://www.techpowerup.com/gpuz/) - 免费且功能齐全的 GPU 监控工具。 ![Freeware][Freeware Icon]
 - [Greenshot](https://github.com/greenshot/greenshot) - 屏幕快照拍摄和裁剪. [![Open-Source Software][OSS Icon]](https://github.com/greenshot/greenshot)
-- [HTTrack](https://www.httrack.com/page/2/en/index.html)- 离线浏览器实用程序，允许您从Internet下载网站到本地目录。 [![Open-Source Software][OSS Icon]](https://github.com/xroche/httrack/tree/master)
+- [HTTrack](https://www.httrack.com/page/2/en/index.html) - 离线浏览器实用程序，允许您从Internet下载网站到本地目录。 [![Open-Source Software][OSS Icon]](https://github.com/xroche/httrack/tree/master)
 - [HWMonitor](http://www.cpuid.com/softwares/hwmonitor.html) - 硬件监视器，能读取电压、温度和风扇速度。
 - [LICEcap](http://www.cockos.com/licecap/) - 捕获屏幕动画并直接保存到.GIF。
 - [LightBulb](https://github.com/Tyrrrz/LightBulb) - 调节屏幕以减缓眼部疲劳。
 - [Link Shell Extension](http://schinagl.priv.at/nt/hardlinkshellext/hardlinkshellext.html) - 为资源管理器建立符号链接。
 - [PowerPlanSwitcher](https://www.microsoft.com/en-us/store/p/powerplanswitcher/9nblggh556l3) - Windows 10上快速切换电源计划。[![Open-Source Software][OSS Icon]](https://github.com/petrroll/PowerSwitcher)
 - [qBittorrent](https://qbittorrent.org/) - P2P bittorrent下载软件.
-- [Retroshare](https://retroshare.cc/) - 开源的好友间通讯及文件共享平台. [![Open-Source Software][OSS Icon]](https://github.com/RetroShare/RetroShare) 
+- [Retroshare](https://retroshare.cc/) - 开源的好友间通讯及文件共享平台. [![Open-Source Software][OSS Icon]](https://github.com/RetroShare/RetroShare)
 - [rimraf](https://www.npmjs.com/package/rimraf) - node中的深度删除模块。 用于删除具有很长路径的文件和文件夹。
 - [Rufus](https://rufus.akeo.ie/) - 创建USB启动盘。
 - [SetToStartup](https://aashutoshrathi.github.io/Python-Scripts-and-Games/SetToStartup/) - 此脚本将帮助您将您喜欢的程序或自制脚本/文件夹添加到启动。 [![Open-Source Software][OSS Icon]]
 - [SDelete](https://technet.microsoft.com/en-us/sysinternals/sdelete.aspx) - 安全删除文件或清空闲置空间的命令行库。
-- [ShareX](https://getsharex.com/)- 让您使用单个键获取任何选定区域的截图或屏幕录像。 [![Open-Source Software][OSS Icon]](https://github.com/ShareX/ShareX) ![Freeware][Freeware Icon]
+- [ShareX](https://getsharex.com/) - 让您使用单个键获取任何选定区域的截图或屏幕录像。 [![Open-Source Software][OSS Icon]](https://github.com/ShareX/ShareX) ![Freeware][Freeware Icon]
 - [SpaceMonger](https://spacemonger.en.softonic.com/download) - 一款图形化程序，可根据文件和目录的大小将其显示为不同大小的块。
 - [Speccy](https://www.piriform.com/speccy) - 显示你计算机中每个硬件的详细统计信息。
 - [Sysinternals Suite](https://technet.microsoft.com/en-us/sysinternals/bb842062) - 由Mark Russinovich提供的工具套件，提供对 Windows 进程，物理端口，磁盘活动等构件的访问以进行故障排除。
@@ -360,8 +360,8 @@
 
 ### Windows 10 设置
 
-* [Windows 10纯净安装（How to clean install Windows 10）](http://www.theverge.com/2015/7/31/9077997/microsoft-windows-10-clean-install-how-to-guide), 2015/07/31, 英文。
-* [Windows 10纯净安装（How to do a Clean Install of Windows 10, the Easy Way）](http://www.howtogeek.com/224342/how-to-clean-install-windows-10/), 2016/01/13, 英文。
+* [Windows 10纯净安装(How to clean install Windows 10)](http://www.theverge.com/2015/7/31/9077997/microsoft-windows-10-clean-install-how-to-guide), 2015/07/31, 英文。
+* [Windows 10纯净安装(How to do a Clean Install of Windows 10, the Easy Way)](http://www.howtogeek.com/224342/how-to-clean-install-windows-10/), 2016/01/13, 英文。
 * [Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - Windows 10 / Windows Server 2016重新安装后进行一些初始设置的Powershell脚本。
 
 ### Windows 8 设置
@@ -379,7 +379,7 @@
 * [小众软件 - 我最喜爱的软件Windows版](http://love.appinn.com/) - 小众软件网站的推荐，共17类软件。
 * [Windows绝赞应用 Windows Apps That Amaze Us](https://www.gitbook.com/book/amazing-apps/windows-apps-that-amaze-us/details/zh-CN) 一些较好的WIndows软件，附有黑名单可参考。
 
-## 国产（中国）软件
+## 国产(中国)软件
 TODO
 
 ## 论坛
