@@ -285,6 +285,7 @@
 - [Simplenote](https://simplenote.com/) - Simple cross-platform note taking app with cloud-based syncing. ![Freeware][freeware icon]
 - [Taskade](https://taskade.com/) - Smart task lists with real-time cross-platform syncing and team collaboration. ![Freeware][freeware icon]
 - [Total Commander](https://www.ghisler.com/) - The best file manager for Windows.
+- [WindowsRemix](https://www.windowsremix.com/software) - Web-based [ClickOnce](https://en.wikipedia.org/wiki/ClickOnce) batch software installer based on NuGet, Boxstarter and Chocolatey.
 - [WordWeb](http://wordweb.info/) - A very good English dictionary for windows. ![Freeware][freeware icon]
 - [Wox](http://www.wox.one/) - An effective launcher for windows. [![Open-Source Software][oss icon]](https://github.com/Wox-launcher/Wox/) ![Freeware][freeware icon]
 
