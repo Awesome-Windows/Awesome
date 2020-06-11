@@ -226,7 +226,6 @@
 - [WebStorm](https://www.jetbrains.com/webstorm/) - JetBrain出品的JavaScipt开发平台。
 
 ### 在线存储
-- [百度网盘](https://pan.baidu.com/) - 其他类似还有腾讯微云，坚果云等。
 - [Box](https://app.box.com/services/browse/43/box_sync_for_windows) - 能够同步超过100,000个文件，并支持含有特殊字符的文件名和长度超过256个字符的路径。
 - [Dropbox](https://www.dropbox.com/install) -简单，优雅和多功能（PC，Mac，Android ...）云存储解决方案。
 - [Google Drive](https://www.google.com/drive/download/) - 深深融入Google生态系统的云存储解决方案。
@@ -333,7 +332,6 @@
 - [VLC](http://www.videolan.org/vlc/index.html) - 多媒体播放器和框架，用于播放DVD，音频CD，VCD和各种流协议。 [![Open-Source Software][OSS Icon]](https://github.com/videolan/vlc)
 
 ### 安全
-- [360](http://www.360.cn/download/)* - 360全家桶，让你的电脑飞起来
 - *[AIDA64](https://www.aida64.com/)* - 查看系统信息，支持手机。
 - *[CCleaner](https://www.piriform.com/ccleaner)* - 用于 PC 优化和清洁。
 - *[CrystalDiskMark](https://crystalmark.info/?lang=en)* - 硬盘信息，日文版和英文版。
