@@ -69,6 +69,7 @@
 - [Qtractor](http://qtractor.sourceforge.net/qtractor-index.html#Downloads) - An Audio/MIDI multi-track sequencer. [![Open-Source Software][oss icon]](http://qtractor.sourceforge.net/qtractor-downloads.html#Git) ![Freeware][freeware icon]
 - [Reaper](http://www.reaper.fm/download.php) - Lightweight application with deep feature set and \$60 for individual, non-profit, or small business use.
 - [Resonic](https://resonic.at/) - Fast and free audio player.
+- [Strawberry](https://www.strawberrymusicplayer.org) - Music player and music collection organizer (Clementine fork).[![Open-Source Software][oss icon]] ![Freeware][freeware icon]
 - [WACUP](https://getwacup.com/preview) - An extension/improvement to Winamp, providing bugfixes and more features such as a better MOD player and YouTube support. ![Freeware][Freeware Icon]
 - [Winamp](http://www.winamp.com/) - Music player capable of playing MP3s, MP2s, WAVs, VOCs and MIDI files. ![Freeware][Freeware Icon]
 
@@ -87,7 +88,7 @@
 
 ### Compression
 
-- [7-Zip](http://www.7-zip.org/) - Open source Windows utility for manipulating archives. Formats 7z, ZIP, GZIP, BZIP2 and TAR are supported fully, other formats can be unpacked. [![Open-Source Software][oss icon]](http://www.7-zip.org/download.html) ![Freeware][freeware icon]
+- [7-Zip](https://www.7-zip.org/) - Open source Windows utility for manipulating archives. Formats 7z, ZIP, GZIP, BZIP2 and TAR are supported fully, other formats can be unpacked. [![Open-Source Software][oss icon]](http://www.7-zip.org/download.html) ![Freeware][freeware icon]
 - [Bandizip](https://www.bandisoft.com/bandizip/) - A lightweight, fast and free All-In-One Zip Archiver. ![Freeware][freeware icon]
 - [PeaZip](http://www.peazip.org/) - Archiver and file compressor. Extract 7Z CAB ISO RAR TAR ZIP archive files. [![Open-Source Software][oss icon]](https://osdn.net/projects/peazip/) ![Freeware][freeware icon]
 - [Riot](http://luci.criosweb.ro/riot/) - Compress images either by file size or by many other image attributes. ![Freeware][freeware icon]
@@ -97,7 +98,6 @@
 
 - [7+ Taskbar Tweaker](http://rammichael.com/7-taskbar-tweaker) - Allows to customize and extend Windows taskbar functionality with various productivity enhancements. ![Freeware][freeware icon]
 - [Classic Start](https://github.com/passionate-coder/Classic-Start) - Use Start Menu and Explorer like it's 2000. [![Open-Source Software][oss icon]](https://github.com/passionate-coder/Classic-Start) ![Freeware][freeware icon]
-- [Clover](http://en.ejie.me/) - Add multi-tab functionality to Windows Explorer. ![Freeware][freeware icon]
 - [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - Per application volume control from the system tray. [![Open-Source Software][oss icon]](https://github.com/File-New-Project/EarTrumpet) ![Freeware][freeware icon]
 - [QTTabBar](http://qttabbar.wikidot.com/) - Extends Explorer by tabs and extra folder views. ![Freeware][freeware icon]
 - [Rainmeter](https://www.rainmeter.net/) - Rainmeter allows you to display customizable skins on your desktop, from hardware usage meters to fully functional audio visualizers. [![Open-Source Software][oss icon]](https://github.com/rainmeter/rainmeter) ![Freeware][freeware icon]
@@ -113,7 +113,7 @@
 - [PartitionGuru ｜ Eassos Recovery](http://www.eassos.com/) - Data recovery with partition recovery. ![Freeware][freeware icon]
 - [Recuva](https://www.piriform.com/recuva) - Recover your deleted files quickly and easily.
 - [Stellar Phoenix Windows Data Recovery](http://www.stellarinfo.com/windows-data-recovery.php) - Remote recovery option to recover data from another computer over a network.
-- [TestDisk](http://www.cgsecurity.org/wiki/TestDisk) - Powerful free data recovery software primarily designed to help recover lost partitions and/or make non-booting disks bootable again.
+- [TestDisk](https://www.cgsecurity.org/wiki/TestDisk) - Powerful free data recovery software primarily designed to help recover lost partitions and/or make non-booting disks bootable again.
 
 ### Developer Tools
 
@@ -165,13 +165,13 @@
 
 ### Documents
 
-- [FreeOffice](http://www.freeoffice.com/en/) - FreeOffice is a complete office suite with a word processor, a spreadsheet application and a presentation program – all compatible with their counterparts in Microsoft Office. ![Freeware][freeware icon]
+- [FreeOffice](https://www.freeoffice.com/en/) - FreeOffice is a complete office suite with a word processor, a spreadsheet application and a presentation program – all compatible with their counterparts in Microsoft Office. ![Freeware][freeware icon]
 - [LibreOffice](https://www.libreoffice.org/) - Open source office suite. [![Open-Source Software][oss icon]](https://www.libreoffice.org/about-us/source-code/) ![Freeware][freeware icon]
-- [Microsoft Office](http://www.office.com) - Microsoft's own productivity suite.
+- [Microsoft Office](https://www.office.com) - Microsoft's own productivity suite.
 - [NitroPDF](https://www.gonitro.com/pdf-reader) - The best PDF Reader you'll ever get.
 - [OnlyOffice](https://www.onlyoffice.com/) - The most complete and feature-rich office and productivity suite. ![Freeware][freeware icon]
 - [OpenOffice](https://www.openoffice.org/) - Software suite for word processing, spreadsheets, presentations, graphics, databases and more. [![Open-Source Software][oss icon]](http://openoffice.apache.org/source.html) ![Freeware][freeware icon]
-- [Sumatra PDF](http://www.sumatrapdfreader.org/free-pdf-reader.html) - PDF, ePub, MOBI, CHM, XPS, DjVu, CBZ, CBR reader. [![Open-Source Software][oss icon]](https://github.com/sumatrapdfreader/sumatrapdf) ![Freeware][freeware icon]
+- [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader.html) - PDF, ePub, MOBI, CHM, XPS, DjVu, CBZ, CBR reader. [![Open-Source Software][oss icon]](https://github.com/sumatrapdfreader/sumatrapdf) ![Freeware][freeware icon]
 - [WPS Office](https://www.wps.com/office-free) - The perfect free office software ![Freeware][freeware icon]
 
 ### E-Book Utilities
@@ -313,6 +313,7 @@
 - [AddToSendTo](https://aashutoshrathi.github.io/Python-Scripts-and-Games/AddToSendTo/) - This script lets you add your favorite Folder to Send To option, when you right-click. [![Open-Source Software][oss icon]](https://aashutoshrathi.github.io/Python-Scripts-and-Games/AddToSendTo/)
 - [Advanced Renamer](https://www.advancedrenamer.com/) - Advanced batch renaming program, with support for renaming based on GPS data from images, ID3 tags from music files, TV show data and regular expressions. ![Freeware][freeware icon]
 - [Bandicam](https://www.bandicam.com) - Recording software allowing easy video recording of both desktop and 3D apps simultaneously.
+- [BC Uninstaller](https://www.bcuninstaller.com) - Uninstaller with advanced features. [![Open-Source Software][oss icon]] ![Freeware][freeware icon]
 - [Carnac](http://code52.org/carnac/) - The easiest way to record keystrokes during any screen recording.
 - [CleanMyPC](http://macpaw.com/cleanmypc) - A clean computer in no time.
 - [CPU-Z](http://www.cpuid.com/softwares/cpu-z.html) - A free all-in-one CPU monitoring tool. ![Freeware][freeware icon]
@@ -329,7 +330,7 @@
 - [Greenshot](https://github.com/greenshot/greenshot) - Take and crop screenshots directly on the screen. [![Open-Source Software][oss icon]](https://github.com/greenshot/greenshot)
 - [HTTrack](https://www.httrack.com/page/2/en/index.html)- Offline browser utility, allowing you to download a website from the Internet to a local directory. [![Open-Source Software][oss icon]](https://github.com/xroche/httrack/tree/master)
 - [HWMonitor](http://www.cpuid.com/softwares/hwmonitor.html) - A hardware monitoring program that reads PC systems main health sensors : voltages, temperatures, fans speed.
-- [IrfanView](http://www.irfanview.com/) - A very fast, small, compact and innovative graphic viewer for Windows.
+- [IrfanView](https://www.irfanview.com/) - A very fast, small, compact and innovative graphic viewer for Windows.
 - [LICEcap](http://www.cockos.com/licecap/) - Animated screen captures and save them directly to .GIF
 - [LightBulb](https://github.com/Tyrrrz/LightBulb) - Reduces eyestrain by adjusting gamma based on the current time
 - [Link Shell Extension](http://schinagl.priv.at/nt/hardlinkshellext/hardlinkshellext.html) - Create symlinks from Explorer.
@@ -404,9 +405,13 @@
 - [ENCRYPTO](http://macpaw.com/encrypto) - Encrypt your files in an elegant way. ![Freeware][freeware icon]
 - [GlassWire](https://www.glasswire.com/) - Network security monitoring tool and analyzer that visualizes your network activity.
 - [IIS Crypto](https://www.nartac.com/Products/IISCrypto) - A utility for configuring encryption protocols, cyphers, hashing methods, and key exchanges for Windows components (eg TLS/AES/SHA for Remote Desktop)
-- [KeePass](http://www.keepass.info) - Free, open-source, easy-to-use password manager. [![Open-Source Software][oss icon]](https://sourceforge.net/projects/keepass/) ![Freeware][freeware icon]
+- [KeePass](https://www.keepass.info) - Free, open-source, easy-to-use password manager. [![Open-Source Software][oss icon]](https://sourceforge.net/projects/keepass/) ![Freeware][freeware icon]
+- [KeePassXC](https://keepassxc.org) - Free, open-source, cross-platform, easy-to-use password manager. [![Open-Source Software][oss icon]]
 - [Malwarebytes](https://www.malwarebytes.org/) - protects from dangerous threats that antivirus doesn't. ![Freeware][freeware icon]
+- [Microsoft Safety Scanner](https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence/safety-scanner-download) - Scan tool designed to find and remove malware from Windows computers
 - [NetLimiter](https://www.netlimiter.com) - Internet traffic control and monitoring tool. ![Freeware][freeware icon]
+- [Quad9](https://www.quad9.net/faq/) - Free, recursive, anycast DNS platform that provides end users robust security protections, high-performance, and privacy.
+- [SomeOneWhoCares Hosts](https://someonewhocares.org/hosts/zero/) - Block malicious domains from hosts file.
 - [SpyBot](https://www.safer-networking.org/) - Search and destroy malware, spyware and viruses. ![Freeware][freeware icon]
 - [System Explorer](http://systemexplorer.net) - An enhanced task manager with support for monitoring and modifying system processes, start-up programs, system services, drivers, shell extensions, and more.
 - [Tor Project](https://www.torproject.org/) - Enable anonymous communication. [![Open-Source Software][oss icon]](https://github.com/TheTorProject) ![Freeware][freeware icon]
@@ -418,7 +423,7 @@
 ## Miscellaneous
 
 - [Show hidden files](http://www.windows.microsoft.com/en-in/windows/show-hidden-files)
-- [list of Shortcut keys](http://imgur.com/a/TIXvm)
+- [List of Shortcut keys](http://imgur.com/a/TIXvm)
 
 ## Discussion Forums
 
