@@ -119,7 +119,7 @@
 
 - [Cacher](https://www.cacher.io/) - Cloud-based, team-enabled code snippet manager with Gist sync, VSCode/Atom/Sublime packages and full-featured web client.
 - [DB Browser for SQLite](http://sqlitebrowser.org/) - High quality, visual, open source tool to create, design, and edit database files compatible with SQLite [![Open-Source Software][oss icon]](http://sqlitebrowser.org/)
-- [DBeaver](https://dbeaver.io) - Multi-platform database tool for devs, dbadmins, analysts and all people who need to work with databases. ![Open-Source Software][oss icon] ![Freeware][freeware icon]
+- [DBeaver](https://dbeaver.io/) - Multi-platform database tool for devs, dbadmins, analysts and all people who need to work with databases. ![Open-Source Software][oss icon] ![Freeware][freeware icon]
 - [ExtendsClass](https://extendsclass.com/) - Online tools for developers (REST/SOAP clients, SQLite browser, Regex tester, XPath tester) ![Freeware][freeware icon]
 - [Fiddler](http://www.telerik.com/fiddler) - Web debugging proxy.
 - [FileZilla](https://filezilla-project.org/) - FTP, FTPS and SFTP client. [![Open-Source Software][oss icon]](https://download.filezilla-project.org/client/) ![Freeware][freeware icon]
