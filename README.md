@@ -69,7 +69,7 @@
 - [Qtractor](http://qtractor.sourceforge.net/qtractor-index.html#Downloads) - An Audio/MIDI multi-track sequencer. [![Open-Source Software][oss icon]](http://qtractor.sourceforge.net/qtractor-downloads.html#Git) ![Freeware][freeware icon]
 - [Reaper](http://www.reaper.fm/download.php) - Lightweight application with deep feature set and \$60 for individual, non-profit, or small business use.
 - [Resonic](https://resonic.at/) - Fast and free audio player.
-- [Strawberry](https://www.strawberrymusicplayer.org) - Music player and music collection organizer (Clementine fork).[![Open-Source Software][oss icon]] ![Freeware][freeware icon]
+- [Strawberry](https://www.strawberrymusicplayer.org) - Music player and music collection organizer (Clementine fork).![Open-Source Software][oss icon]] ![Freeware][freeware icon]
 - [WACUP](https://getwacup.com/preview) - An extension/improvement to Winamp, providing bugfixes and more features such as a better MOD player and YouTube support. ![Freeware][Freeware Icon]
 - [Winamp](http://www.winamp.com/) - Music player capable of playing MP3s, MP2s, WAVs, VOCs and MIDI files. ![Freeware][Freeware Icon]
 
