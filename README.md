@@ -272,6 +272,7 @@
 - [Executor.dk](http://executor.dk/) - A free multi purpose customizable and light-weight launcher. ![Freeware][freeware icon]
 - [f.lux](http://stereopsis.com/flux/) - Automatically adjust your computer screen to match lighting. ![Freeware][freeware icon]
 - [File Juggler](https://www.filejuggler.com/) - Organize files automatically. Monitor folders and execute actions like rename, delete, unzip and more. Finds dates in PDFs and much more.
+- [FreeCommander](https://freecommander.com/) - A free and feature-rich dual-pane file manager. ![Freeware][freeware icon]
 - [Inkdrop](https://www.inkdrop.info/) - The note-taking app for Markdown lovers.
 - [KatMouse](http://www.ehiti.de/katmouse/) - Utility that enables "universal scrolling" in Windows: scrolling does not need the window to be active/clicked first (i.e. how it works in macOS and Linux) ![Freeware][freeware icon]
 - [Keypirinha](http://keypirinha.com/) - A fast launcher for keyboard ninjas on Windows. You can think of Keypirinha as an alternative to _Launchy_ and a cousin of _Alfred_. ![Freeware][freeware icon]
@@ -349,6 +350,7 @@
 - [SpaceMonger](https://spacemonger.en.softonic.com/download) - A graphical utility to display folders and files in blocks relative to their disk usage.
 - [Speccy](https://www.piriform.com/speccy) -Detailed statistics on every piece of hardware in your computer.
 - [SpeedCrunch](http://speedcrunch.org/) - The best and only calculator you'll need, completely stripped down of unnecessary UI clutter. [![Open-Source Software][OSS Icon]](https://bitbucket.org/heldercorreia/speedcrunch/) ![Freeware][Freeware Icon]
+- [Switcheroo](https://github.com/kvakulo/Switcheroo) - An Alt+Tab replacement with ability to search through open apps and switch to them. [![Open-Source Software][OSS Icon]]
 - [Sysinternals Suite](https://technet.microsoft.com/en-us/sysinternals/bb842062) - Tool suite by Mark Russinovich that provides access to Windows internals for troubleshooting: processes, physical ports, disk activity etc.
 - [ueli](https://ueli.app/#/) - A powerful keystroke launcher for Windows. 
 - [SpeedCrunch](http://speedcrunch.org/) - The best and only calculator you'll need, completely stripped down of unnecessary UI clutter. [![Open-Source Software][oss icon]](https://bitbucket.org/heldercorreia/speedcrunch/) ![Freeware][freeware icon]
