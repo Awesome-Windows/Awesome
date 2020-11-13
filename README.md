@@ -417,7 +417,7 @@
 
 ## Miscellaneous
 
-- [Show hidden files](http://www.windows.microsoft.com/en-in/windows/show-hidden-files)
+- [Show hidden files](http://windows.microsoft.com/en-in/windows/show-hidden-files)
 - [list of Shortcut keys](http://imgur.com/a/TIXvm)
 
 ## Discussion Forums
