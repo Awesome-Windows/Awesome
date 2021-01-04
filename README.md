@@ -97,8 +97,8 @@
 
 - [7+ Taskbar Tweaker](http://rammichael.com/7-taskbar-tweaker) - Allows to customize and extend Windows taskbar functionality with various productivity enhancements. ![Freeware][freeware icon]
 - [Classic Start](https://github.com/passionate-coder/Classic-Start) - Use Start Menu and Explorer like it's 2000. [![Open-Source Software][oss icon]](https://github.com/passionate-coder/Classic-Start) ![Freeware][freeware icon]
-- [Clover](http://en.ejie.me/) - Add multi-tab functionality to Windows Explorer. ![Freeware][freeware icon]
 - [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - Per application volume control from the system tray. [![Open-Source Software][oss icon]](https://github.com/File-New-Project/EarTrumpet) ![Freeware][freeware icon]
+- [ModernFlyouts](https://www.microsoft.com/en-us/p/modernflyouts-preview/9mt60qv066rp?activetab=pivot:overviewtab) - Replaces Windows' flyouts with sleek, customizable ones. [![Open-Source Software][oss icon]](https://github.com/ModernFlyouts-Community/ModernFlyouts) ![Freeware][freeware icon]
 - [QTTabBar](http://qttabbar.wikidot.com/) - Extends Explorer by tabs and extra folder views. ![Freeware][freeware icon]
 - [Rainmeter](https://www.rainmeter.net/) - Rainmeter allows you to display customizable skins on your desktop, from hardware usage meters to fully functional audio visualizers. [![Open-Source Software][oss icon]](https://github.com/rainmeter/rainmeter) ![Freeware][freeware icon]
 - [Search Deflector](https://github.com/spikespaz/search-deflector) - A small program that redirects searches made from the Windows Start Menu or Cortana to whatever browser and search engine you prefer. [![Open-Source Software][oss icon]](https://github.com/spikespaz/search-deflector) ![Freeware][freeware icon]
@@ -366,6 +366,7 @@
 ### Proxy and VPN Tools
 
 - [Algo](https://github.com/trailofbits/algo) - Personal IPSEC VPN in the cloud.
+- [Psiphon](https://www.psiphon.ca/) - Free censorship circumvention tool. Has a GUI and is usable on the command-line. [![Open-Source Software][oss icon]](https://github.com/Psiphon-Labs/psiphon-tunnel-core) ![Freeware][freeware icon]
 
 ### Video
 
@@ -388,6 +389,7 @@
 
 - http://www.theverge.com/2015/7/31/9077997/microsoft-windows-10-clean-install-how-to-guide
 - http://www.howtogeek.com/224342/how-to-clean-install-windows-10/
+- [ShutUp10](https://www.oo-software.com/en/shutup10) - Collection of scripts accessible through GUI focused on security
 - [Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - Powershell script to turn off or on various defaults in Windows
 
 ### Windows 8.1 Setup
