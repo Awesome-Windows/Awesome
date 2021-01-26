@@ -419,6 +419,7 @@
 
 - [Show hidden files](http://www.windows.microsoft.com/en-in/windows/show-hidden-files)
 - [list of Shortcut keys](http://imgur.com/a/TIXvm)
+- [Pandemonica Theme](https://github.com/GunnerBasil/WinDemonica) - A theme for Windows 10 and various Windows apps. [![Open-Source Software][oss icon]](https://github.com/GunnerBasil/WinDemonica)
 
 ## Discussion Forums
 
