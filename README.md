@@ -74,6 +74,7 @@
 
 ### Chat Clients
 
+- [AirSend](https://airsend.io/) - Instantly collaborate with anyone in seconds. Have conversations, voice and video calls, share files, manage tasks, and keep notes in one space. ![Freeware][freeware icon]
 - [Caprine](https://sindresorhus.com/caprine/) - An elegant Facebook Messenger desktop app. [![Open-Source Software][oss icon]](https://github.com/sindresorhus/caprine) ![Freeware][freeware icon]
 - [Discord](https://discordapp.com) - Discord is a free voice and text chat client for gamers and non-gamers alike. You can use it from your browser and it's available on iOS, Android, Windows, Mac, and Linux. ![Freeware][freeware icon]
 - [Hexchat](https://hexchat.github.io/) - IRC client based on XChat [![Open-Source Software][oss icon]](https://hexchat.github.io/) ![Freeware][freeware icon]
