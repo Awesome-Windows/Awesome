@@ -232,6 +232,7 @@
 - [Android Studio](https://developer.android.com/studio/index.html) - The official IDE for Android based on the IntelliJ platform. [![Open-Source Software][oss icon]](https://sites.google.com/a/android.com/tools/) ![Freeware][freeware icon]
 - [CLion](https://www.jetbrains.com/clion/) - Smart cross-platform IDE for C/C++ that uses CMake as a build system.
 - [Eclipse](https://eclipse.org/downloads/) - A powerful IDE. [![Open-Source Software][oss icon]](https://git.eclipse.org/c/) ![Freeware][freeware icon]
+- [Geany](https://www.geany.org/) - A cross-platform, fast, and small (12 MB last for a full install last time I checked), yet feature-rich free and open source IDE. [![Open-Source Software][oss icon]](https://github.com/geany/geany/)
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/) - A modern Java IDE with free community edition. [![Open-Source Software][oss icon]](https://github.com/JetBrains/intellij-community) ![Freeware][freeware icon]
 - [NetBeans IDE](https://netbeans.org/) - A free and open-source IDE. [![Open-Source Software][oss icon]](https://netbeans.org/community/sources/) ![Freeware][freeware icon]
 - [PhpStorm](https://www.jetbrains.com/phpstorm/) - Lightning-smart PHP IDE with major frameworks support.
