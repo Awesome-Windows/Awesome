@@ -99,6 +99,8 @@
 - [Classic Start](https://github.com/passionate-coder/Classic-Start) - Use Start Menu and Explorer like it's 2000. [![Open-Source Software][oss icon]](https://github.com/passionate-coder/Classic-Start) ![Freeware][freeware icon]
 - [Clover](http://en.ejie.me/) - Add multi-tab functionality to Windows Explorer. ![Freeware][freeware icon]
 - [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - Per application volume control from the system tray. [![Open-Source Software][oss icon]](https://github.com/File-New-Project/EarTrumpet) ![Freeware][freeware icon]
+- [ModernFlyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts) - This application will replace the default audio/airplane/brightness flyouts found in Windows shown when the volume or brightness changes or when airplane mode key is pressed with a customisable Flyout with a modern UI. [![Open-Source Software][oss Icon]](https://github.com/ModernFlyouts-Community/ModernFlyouts)
+![Freeware][freeware icon]
 - [QTTabBar](http://qttabbar.wikidot.com/) - Extends Explorer by tabs and extra folder views. ![Freeware][freeware icon]
 - [Rainmeter](https://www.rainmeter.net/) - Rainmeter allows you to display customizable skins on your desktop, from hardware usage meters to fully functional audio visualizers. [![Open-Source Software][oss icon]](https://github.com/rainmeter/rainmeter) ![Freeware][freeware icon]
 - [Search Deflector](https://github.com/spikespaz/search-deflector) - A small program that redirects searches made from the Windows Start Menu or Cortana to whatever browser and search engine you prefer. [![Open-Source Software][oss icon]](https://github.com/spikespaz/search-deflector) ![Freeware][freeware icon]
@@ -350,7 +352,7 @@
 - [Speccy](https://www.piriform.com/speccy) -Detailed statistics on every piece of hardware in your computer.
 - [SpeedCrunch](http://speedcrunch.org/) - The best and only calculator you'll need, completely stripped down of unnecessary UI clutter. [![Open-Source Software][OSS Icon]](https://bitbucket.org/heldercorreia/speedcrunch/) ![Freeware][Freeware Icon]
 - [Sysinternals Suite](https://technet.microsoft.com/en-us/sysinternals/bb842062) - Tool suite by Mark Russinovich that provides access to Windows internals for troubleshooting: processes, physical ports, disk activity etc.
-- [ueli](https://ueli.app/#/) - A powerful keystroke launcher for Windows. 
+- [ueli](https://ueli.app/#/) - A powerful keystroke launcher for Windows.
 - [SpeedCrunch](http://speedcrunch.org/) - The best and only calculator you'll need, completely stripped down of unnecessary UI clutter. [![Open-Source Software][oss icon]](https://bitbucket.org/heldercorreia/speedcrunch/) ![Freeware][freeware icon]
 - [Sysinternals Suite](https://technet.microsoft.com/en-us/sysinternals/bb842062) - Tool suite by Mark Russinovich that provides access to Windows internals for troubleshooting: processes, physical ports, disk activity etc.
 - [Unlocker](http://www.softpedia.com/get/System/System-Miscellaneous/Unlocker.shtml) - Unlock files Windows won't let you delete
