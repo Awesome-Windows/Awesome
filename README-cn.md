@@ -267,6 +267,7 @@
 
 ### 终端
 - [Babun](http://babun.github.io/) - 基于 Cygwin，用于替代 Windows shell。
+- [bottom](https://github.com/ClementTsang/bottom) - 系统资源和活动监视器。 [![Open-Source Software][oss icon]](https://github.com/ClementTsang/bottom) ![Freeware][freeware icon]
 - [Cmder](https://github.com/cmderdev/cmder) - 控制台模拟器包。
 - [ColorTool](https://github.com/Microsoft/Console/tree/master/tools/ColorTool) - 设置Widows终端支持iTerm的颜色模式。
 - [ConEmu](https://github.com/Maximus5/ConEmu) - 标签，分布，闪烁及其他各项均可定制的终端。
