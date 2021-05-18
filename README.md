@@ -183,7 +183,7 @@
 ### Email
 
 - [Mailbird](https://www.mailbird.com/) - IMAP and POP3 email client, featuring customization, complete touch support and multiple language support.
-- [Mailspring](https://getmailspring.com/) - A fast and maintained fork of Nylas Mail, built on modern web technologies. [![Open-Source Software][oss icon]](https://github.com/Foundry376/Mailspring) ![Freeware][freeware icon]
+- [Mailspring](https://getmailspring.com/) - A fast and maintained fork of Nylas Mail, built on modern web technologies. ![Freeware][freeware icon]
 - [Nylas Mail](https://www.nylas.com/download/) - An extensible desktop mail app built on the modern web. [![Open-Source Software][oss icon]](https://github.com/nylas/N1) ![Freeware][freeware icon]
 - [Postbox](https://postbox-inc.com/) - The Power Email App
 - [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Email client with minimalistic design. [![Open-Source Software][oss icon]](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Build_Instructions/Simple_Thunderbird_build) ![Freeware][freeware icon]
