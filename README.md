@@ -287,6 +287,7 @@
 - [Total Commander](https://www.ghisler.com/) - The best file manager for Windows.
 - [WordWeb](http://wordweb.info/) - A very good English dictionary for windows. ![Freeware][freeware icon]
 - [Wox](http://www.wox.one/) - An effective launcher for windows. [![Open-Source Software][oss icon]](https://github.com/Wox-launcher/Wox/) ![Freeware][freeware icon]
+- [Baulk](https://github.com/baulk/baulk) Minimal Package Manager for Windows [![Open-Source Software][oss icon]](https://github.com/baulk/baulk) ![Freeware][freeware icon]
 
 ### Terminal
 

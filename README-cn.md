@@ -262,7 +262,8 @@
 - [Total Commander](https://www.ghisler.com/) - Windows 上最佳的文件管理器。
 - [WordWeb](http://wordweb.info/) - Windows 上很好的英文词典。 ![Freeware][Freeware Icon]
 - [Wox](http://www.getwox.com/) - Windows 上效果优异的快捷启动应用。 [![Open-Source Software][OSS Icon]](https://github.com/Wox-launcher/Wox/) ![Freeware][Freeware Icon]  
-[xoring](https://www.xoring.com/) 一款基于番茄工作法的时间管理工具
+- [xoring](https://www.xoring.com/) 一款基于番茄工作法的时间管理工具
+- [Baulk](https://github.com/baulk/baulk) Windows 极简包管理器 [![Open-Source Software][oss icon]](https://github.com/baulk/baulk) ![Freeware][freeware icon]
 
 
 ### 终端
