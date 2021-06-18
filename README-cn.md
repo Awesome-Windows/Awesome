@@ -302,7 +302,7 @@
 - [LightBulb](https://github.com/Tyrrrz/LightBulb) - 调节屏幕以减缓眼部疲劳。
 - [Link Shell Extension](http://schinagl.priv.at/nt/hardlinkshellext/hardlinkshellext.html) - 为资源管理器建立符号链接。
 - [PowerPlanSwitcher](https://www.microsoft.com/en-us/store/p/powerplanswitcher/9nblggh556l3) - Windows 10上快速切换电源计划。[![Open-Source Software][OSS Icon]](https://github.com/petrroll/PowerSwitcher)
-- [qBittorrent](https://qbittorrent.org/) - P2P bittorrent下载软件.
+- [qBittorrent](https://qbittorrent.org/) - P2P bittorrent下载软件. [![Open-Source Software][oss icon]](https://github.com/qbittorrent/qbittorrent)
 - [Retroshare](https://retroshare.cc/) - 开源的好友间通讯及文件共享平台. [![Open-Source Software][OSS Icon]](https://github.com/RetroShare/RetroShare) 
 - [rimraf](https://www.npmjs.com/package/rimraf) - node中的深度删除模块。 用于删除具有很长路径的文件和文件夹。
 - [Rufus](https://rufus.akeo.ie/) - 创建USB启动盘。
