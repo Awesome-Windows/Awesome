@@ -194,6 +194,7 @@
 
 ### 图形
 - [Blender](https://www.blender.org/) - 功能齐全的可扩展跨平台3D内容套件。 [![Open-Source Software][OSS Icon]](https://developer.blender.org/) ![Freeware][Freeware Icon]
+- [Eagle](https://cn.eagle.cool/) - 强大的图片、视频、音频素材及文件管理软件。
 - [Gimp](http://www.gimp.org/) - 开源图像编辑器。 [![Open-Source Software][OSS Icon]](http://www.gimp.org/source/) ![Freeware][Freeware Icon]
 - [Inkscape](https://inkscape.org/en/) - 免费的矢量图形设计软件。
 - [Krita](https://krita.org/) - 有一堆很酷的功能的免费绘图软件。
