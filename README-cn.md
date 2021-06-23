@@ -194,6 +194,7 @@
 
 ### 图形
 - [Blender](https://www.blender.org/) - 功能齐全的可扩展跨平台3D内容套件。 [![Open-Source Software][OSS Icon]](https://developer.blender.org/) ![Freeware][Freeware Icon]
+- [Eagle](https://cn.eagle.cool/) - 强大的图片、视频、音频素材及文件管理软件。
 - [Gimp](http://www.gimp.org/) - 开源图像编辑器。 [![Open-Source Software][OSS Icon]](http://www.gimp.org/source/) ![Freeware][Freeware Icon]
 - [Inkscape](https://inkscape.org/en/) - 免费的矢量图形设计软件。
 - [Krita](https://krita.org/) - 有一堆很酷的功能的免费绘图软件。
@@ -245,7 +246,6 @@
 - [Cold Turkey](https://getcoldturkey.com) - 屏蔽能分散你注意力的网站。（屏蔽期间你甚至无法卸载它。）
 - [CommandTrayHost](https://github.com/rexdf/CommandTrayHost) - Windows命令行程序运行监控系统托盘管理工具。 [![Open-Source Software][OSS Icon]](https://github.com/rexdf/CommandTrayHost) ![Freeware][Freeware Icon]
 - [Ditto](http://ditto-cp.sourceforge.net/) - 剪贴板管理器。
-- [Eagle](https://cn.eagle.cool/) - 强大的图片、视频、音频素材及文件管理软件。
 - [Easy Window Switcher](https://neosmart.net/EasySwitch/) - 应用程序之间快速切换。
 - [Everything](http://www.voidtools.com/) - 最快的文件/文件夹搜索工具， 通过名称搜索。
 - [f.lux](http://stereopsis.com/flux/) - 自动调整您的计算机屏幕亮度以适应当前环境亮度。 ![Freeware][Freeware Icon]
