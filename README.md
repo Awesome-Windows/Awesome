@@ -207,6 +207,7 @@
 ### Graphics
 
 - [Blender](https://www.blender.org/) - Fully-featured extensible cross-platform 3D content suite. [![Open-Source Software][oss icon]](https://developer.blender.org/) ![Freeware][freeware icon]
+- [Eagle App](https://en.eagle.cool/) - Simple and intuitive image file manager with tag and annotation. Supports all major source, image, RAW, video, 3D, audio, font, and office files.
 - [Gimp](http://www.gimp.org/) - Open source image editor. [![Open-Source Software][oss icon]](http://www.gimp.org/source/) ![Freeware][freeware icon]
 - [Inkscape](https://inkscape.org/en/) - Inkscape is a professional vector graphics editor for Windows, Mac OS X and Linux. [![Open-Source Software][oss icon]](https://gitlab.com/inkscape/inkscape) ![Freeware][freeware icon]
 - [Krita](https://krita.org/) - Krita is a professional FREE and open source painting program. [![Open-Source Software][oss icon]](https://krita.org/en/download/krita-desktop/) ![Freeware][freeware icon]
@@ -267,7 +268,6 @@
 - [CommandTrayHost](https://github.com/rexdf/CommandTrayHost) - A Command Line program monitor systray for Windows. [![Open-Source Software][oss icon]](https://github.com/rexdf/CommandTrayHost) ![Freeware][freeware icon]
 - [CopyQ](https://hluk.github.io/CopyQ/) - Clipboard manager with advanced features. [![Open-Source Software][oss icon]](https://github.com/hluk/CopyQ) ![Freeware][freeware icon]
 - [Ditto](http://ditto-cp.sourceforge.net/) - Clipboard manager.
-- [Eagle App](https://en.eagle.cool/) - Simple and intuitive image file manager with tag and annotation. Supports all major source, image, RAW, video, 3D, audio, font, and office files.
 - [Easy Window Switcher](https://neosmart.net/EasySwitch/) - Switch between application instances, fast.
 - [Everything](http://www.voidtools.com/) - The fastest file/folder search tool by name.
 - [Executor.dk](http://executor.dk/) - A free multi purpose customizable and light-weight launcher. ![Freeware][freeware icon]
