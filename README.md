@@ -281,6 +281,7 @@
 - [MultiCommander](http://multicommander.com/) - File Manager for Professionals. ![Freeware][freeware icon]
 - [Ninite](https://ninite.com/) - The easiest, fastest way to update or install software. ![Freeware][freeware icon]
 - [One Commander](http://onecommander.com/) - File manager featuring miller columns and dual-pane views. ![Freeware][freeware icon]
+- [QuickLook](https://pooi.moe/QuickLook/) - Bring macOS “Quick Look” feature to Windows. [![Open-Source Software][oss icon]](https://github.com/QL-Win/QuickLook)
 - [Scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows. [![Open-Source Software][oss icon]](https://github.com/lukesampson/scoop) ![Freeware][freeware icon]
 - [Simplenote](https://simplenote.com/) - Simple cross-platform note taking app with cloud-based syncing. ![Freeware][freeware icon]
 - [Taskade](https://taskade.com/) - Smart task lists with real-time cross-platform syncing and team collaboration. ![Freeware][freeware icon]
