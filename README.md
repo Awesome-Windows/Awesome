@@ -216,7 +216,6 @@
 ### Text Editors
 
 - [Atom](https://atom.io/) - A hackable text editor for the 21st Century. [![Open-Source Software][oss icon]](https://github.com/atom/atom) ![Freeware][freeware icon]
-- [Brackets](http://brackets.io/) - A modern, open source text editor that understands web design. [![Open-Source Software][oss icon]](https://github.com/adobe/brackets) ![Freeware][freeware icon]
 - [GVim](http://www.vim.org/download.php#pc) - (G)Vim is a highly configurable text editor built to enable efficient text editing. [![Open-Source Software][oss icon]](https://github.com/vim/vim) ![Freeware][freeware icon]
 - [Light Table](http://lighttable.com/) - A customizable editor with instant feedback and showing data values flow through your code. [![Open-Source Software][oss icon]](https://github.com/LightTable/LightTable) ![Freeware][freeware icon]
 - [Neovim](https://neovim.io/) - literally the future of vim [![Open-Source Software][oss icon]](https://github.com/neovim/neovim) ![Freeware][freeware icon]
