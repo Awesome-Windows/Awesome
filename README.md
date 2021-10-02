@@ -76,6 +76,7 @@
 
 - [Caprine](https://sindresorhus.com/caprine/) - An elegant Facebook Messenger desktop app. [![Open-Source Software][oss icon]](https://github.com/sindresorhus/caprine) ![Freeware][freeware icon]
 - [Discord](https://discordapp.com) - Discord is a free voice and text chat client for gamers and non-gamers alike. You can use it from your browser and it's available on iOS, Android, Windows, Mac, and Linux. ![Freeware][freeware icon]
+- [Ferdi](https://getferdi.com/) - A messaging browser that allows you to combine your favourite messaging services into one application. [![Open-Source Software][OSS Icon]](https://github.com/getferdi/ferdi) ![Freeware][Freeware Icon]
 - [Hexchat](https://hexchat.github.io/) - IRC client based on XChat [![Open-Source Software][oss icon]](https://hexchat.github.io/) ![Freeware][freeware icon]
 - [LimeChat](http://limechat.net) - Instant messaging application. ![Freeware][freeware icon]
 - [mIRC](http://www.mirc.com/) - An Internet Relay Chat (IRC) client.
