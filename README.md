@@ -267,6 +267,7 @@
 - [CommandTrayHost](https://github.com/rexdf/CommandTrayHost) - A Command Line program monitor systray for Windows. [![Open-Source Software][oss icon]](https://github.com/rexdf/CommandTrayHost) ![Freeware][freeware icon]
 - [CopyQ](https://hluk.github.io/CopyQ/) - Clipboard manager with advanced features. [![Open-Source Software][oss icon]](https://github.com/hluk/CopyQ) ![Freeware][freeware icon]
 - [Ditto](http://ditto-cp.sourceforge.net/) - Clipboard manager.
+- [DropPoint](https://github.com/GameGodS3/DropPoint) - DropPoint helps you drag content without having to open side-by-side windows. [![Open-Source Software][oss icon]](https://github.com/GameGodS3/DropPoint) ![Freeware][freeware icon]
 - [Easy Window Switcher](https://neosmart.net/EasySwitch/) - Switch between application instances, fast.
 - [Everything](http://www.voidtools.com/) - The fastest file/folder search tool by name.
 - [Executor.dk](http://executor.dk/) - A free multi purpose customizable and light-weight launcher. ![Freeware][freeware icon]
