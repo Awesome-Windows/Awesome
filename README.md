@@ -389,6 +389,8 @@
 - http://www.theverge.com/2015/7/31/9077997/microsoft-windows-10-clean-install-how-to-guide
 - http://www.howtogeek.com/224342/how-to-clean-install-windows-10/
 - [Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - Powershell script to turn off or on various defaults in Windows
+- [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Powershell script to remove a lot of bloatware in Windows.
+- Ultimate Windows 10 script - https://github.com/ChrisTitusTech/win10script - Explanation in his video : https://www.youtube.com/watch?v=dKM8ZScbic8
 
 ### Windows 8.1 Setup
 
