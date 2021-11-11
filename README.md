@@ -38,6 +38,7 @@
 - [Setup](#setup)
   - [Windows 10 Setup](#windows-10-setup)
   - [Windows 8.1 Setup](#windows-81-setup)
+- [Debloating](#debloating)
 - [Security](#security)
 - [Miscellaneous](#miscellaneous)
 - [Discussion Forums](#discussion-forums)
@@ -393,6 +394,20 @@
 ### Windows 8.1 Setup
 
 - http://windows.microsoft.com/en-IN/windows-8/clean-install
+
+## Debloating
+- [DisableWinTracking](https://github.com/bitlog2/DisableWinTracking) - A tool that I created to use some of the known methods of disabling tracking in Windows 10. [![Open-Source Software][oss icon]](https://github.com/bitlog2/DisableWinTracking) ![Freeware][freeware icon]
+- [Debloat Windows 10](https://github.com/W4RH4WK/Debloat-Windows-10) - A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps. [![Open-Source Software][oss icon]](https://github.com/W4RH4WK/Debloat-Windows-10) ![Freeware][freeware icon]
+- [Windows 10 Script](https://github.com/ChrisTitusTech/win10script) - This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github. [![Open-Source Software][oss icon]](https://github.com/ChrisTitusTech/win10script) ![Freeware][freeware icon]
+- [privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows and macOS, because privacy is sexy. [![Open-Source Software][oss icon]](https://github.com/undergroundwires/privacy.sexy) ![Freeware][freeware icon]
+- [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware. [![Open-Source Software][oss icon]](https://github.com/Sycnex/Windows10Debloater) ![Freeware][freeware icon]
+- [Windows Optimize Harden Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat) - Fully Optimize, Harden, and Debloat Windows 10 and Windows 11 Deployments to Windows Best Practices and DoD STIG/SRG Requirements. [![Open-Source Software][oss icon]](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat) ![Freeware][freeware icon]
+- [Sophia Script For Windows](https://github.com/farag2/Sophia-Script-for-Windows) - The most powerful PowerShell module on GitHub for Windows 10 & Windows 11 fine-tuning and tweaking. [![Open-Source Software][oss icon]](https://github.com/farag2/Sophia-Script-for-Windows) ![Freeware][freeware icon]
+- [Bulk Crap Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly. [![Open-Source Software][oss icon]](https://github.com/Klocman/Bulk-Crap-Uninstaller) ![Freeware][freeware icon]
+- [Bloatbox](https://github.com/builtbybel/bloatbox) - Remove Bloatwares from Windows 10. [![Open-Source Software][oss icon]](https://github.com/builtbybel/bloatbox) ![Freeware][freeware icon]
+- [PyDebloatX](https://github.com/Teraskull/PyDebloatX) - Python GUI for uninstalling the default Windows 10 apps. [![Open-Source Software][oss icon]](https://github.com/Teraskull/PyDebloatX) ![Freeware][freeware icon]
+- [Debotnet](https://github.com/builtbybel/debotnet) - A free and portable tool for controlling Windows 10's many privacy-related settings and keep your personal data private. ![Freeware][freeware icon]
+- [Privatezilla](https://github.com/builtbybel/privatezilla) - Privatezilla is the simplest way to perform a quick privacy and security check of your Windows 10 copy. ![Freeware][freeware icon]
 
 ## Security
 
