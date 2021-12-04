@@ -1,4 +1,6 @@
-# <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/main-awesomeWindows.png" width="400" alt="awesome windows">
+<p align="center">
+  <img src="media/main-awesomeWindows.png" width="400" alt="awesome windows">
+</p>
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/english.svg)](README.md)
 
@@ -8,7 +10,7 @@
 
 > *标有 ![Open-Source Software][OSS Icon] 的项目是Open-Source Software。 标有![Freeware][Freeware Icon] 的项目是Freeware。*
 
-# <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/chrome_2016-06-11_19-02-31.png" alt="table of contents">
+![Table of Contents](/media/main-tableOfContents.png)
 
 - [应用程序](#应用程序)
   - [音频](#音频)
