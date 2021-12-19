@@ -212,7 +212,7 @@
 - [Krita](https://krita.org/) - Krita is a professional FREE and open source painting program. [![Open-Source Software][oss icon]](https://krita.org/en/download/krita-desktop/) ![Freeware][freeware icon]
 - [MapTiler](https://www.maptiler.com/) - MapTiler generates zoomable raster maps from images in user-defined coordinate system. ![Freeware][freeware icon]
 - [Paint.net](http://www.getpaint.net/index.html) - how can you live without paint.net? ![Freeware][freeware icon]
-- [GradientGenerator](https://github.com/stupid-kid-af/Gradient-Generator-Javascript) - Generate your gradients ![Freeware][freeware icon] ![Open-Source Software][oss icon]
+- [GradientGenerator](https://stupid-kid-af.github.io/Gradient-Generator-Javascript/) - Generate your gradients ![Freeware][freeware icon] ![Open-Source Software][oss icon]
 
 ### Text Editors
 
