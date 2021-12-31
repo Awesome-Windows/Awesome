@@ -339,7 +339,6 @@
 - [Retroshare](https://retroshare.cc/) - A platform for secure communications and file sharing between friends. [![Open-Source Software][oss icon]](https://github.com/RetroShare/RetroShare)
 - [rimraf](https://www.npmjs.com/package/rimraf) - A deep deletion module for node. Help to delete files and folders with very long paths
 - [Rufus](https://rufus.akeo.ie/) - Create bootable USB drives the easy way.
-- [SDelete](https://technet.microsoft.com/en-us/sysinternals/sdelete.aspx) -  A command line utility that can securely delete a file, or clean the slack space.
 - [SetToStartup](https://aashutoshrathi.github.io/Python-Scripts-and-Games/SetToStartup/) - This script will help you to add your favorite programs or self made scripts/folders to startup. [![Open-Source Software][OSS Icon]](https://aashutoshrathi.github.io/Python-Scripts-and-Games/SetToStartup/)
 - [ShareX](https://getsharex.com/)- Lets you take screenshots or screencasts of any selected area with a single key. [![Open-Source Software][OSS Icon]](https://github.com/ShareX/ShareX) ![Freeware][Freeware Icon]
 - [Snipping Tool](https://support.microsoft.com/en-in/help/13776/windows-use-snipping-tool-to-capture-screenshots) / [Snip & Sketch](https://support.microsoft.com/en-us/help/4488540/windows-10-how-to-take-and-annotate-screenshots) - Windows 10 utility to easily capture and edit selected area in screen.
