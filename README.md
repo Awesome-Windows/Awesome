@@ -321,6 +321,7 @@
 - [ExifCleaner](https://exifcleaner.com) - Remove exif metadata from images and videos with drag and drop. [![Open-Source Software][oss icon]](https://github.com/szTheory/exifcleaner) ![Freeware][freeware icon]
 - [Far](http://www.farmanager.com/index.php?l=en) - File and Archive manager. Clone of the Norton Commander. [![Open-Source Software][oss icon]](http://sourceforge.net/projects/farmanager/)
 - [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer) - A lossless file size optimizer supporting a wide array of formats.
+- [Files](https://files.community/) - A modern file manager for Windows [![Open-Source Software][oss icon]](https://github.com/files-community/Files) ![Freeware][freeware icon]
 - [Fraps](http://www.fraps.com/)- Video game capture screen recorder that can be used with all games using DirectX or OpenGL technology.
 - [FreeFileSync](http://www.freefilesync.org/) - An easy backup solution for files and folders, It supports mirroring/two way sync/update between source and destination.
 - [fselect](https://github.com/jhspetersson/fselect) - Command-line tool to search files with SQL-like queries.
