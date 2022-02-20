@@ -199,6 +199,7 @@
 - [Itch.io](https://itch.io/app/) - Install, update and play indie games. [![Open-Source Software][oss icon]](https://github.com/itchio/itch) ![Freeware][freeware icon]
 - [LuaStudio](http://scormpool.com/luastudio) - Free game development tool/engine. Create games and other graphic focused apps on Windows using Lua/LuaJIT programming language. Export them to many platforms including iOS, Android and Mac.
 - [Origin](https://www.origin.com/en-in/store/) - Like Steam, but for EA.
+- [Playnite](https://playnite.link/) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games. [![Open-Source Software][oss icon]](https://github.com/JosefNemec/Playnite) ![Freeware][freeware icon]
 - [Steam](http://store.steampowered.com/) - Largest online video game retailer. Desktop app allows you to organise your library of games and play them at any time. But you already knew that.
 - [Unity](https://unity3d.com/) - Free game engine. Easy to pick up and use with a number of tutorials.
 - [Unreal Engine](https://www.unrealengine.com/what-is-unreal-engine-4) - Another free game engine. Lots of documentation and easier to pick up, but you pay 5% royalties to Unreal when you make money from UE-based games.
