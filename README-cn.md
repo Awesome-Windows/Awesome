@@ -110,30 +110,30 @@
 
 - [Addict](https://github.com/dthree/addict) - Active Directory的嵌入式REST API。
 - [Cacher](https://www.cacher.io/)-具有Gist同步，VSCode / Atom / Sublime软件包和功能齐全的Web客户端的基于云的，团队启用的代码段管理器。
-- [用于SQLite的数据库浏览器](http://sqlitebrowser.org/)-用于创建，设计和编辑与SQLite兼容的数据库文件的高质量，可视，开放源代码工具[![Open-Source Software][OSS Icon] ](http://sqlitebrowser.org/)
+- [DB Browser for SQLite](http://sqlitebrowser.org/)-用于创建，设计和编辑与SQLite兼容的数据库文件的高质量，可视，开放源代码工具[![Open-Source Software][OSS Icon] ](http://sqlitebrowser.org/)
 - [ExtendsClass](https://extendsclass.com/)-开发人员的在线工具（REST / SOAP客户端，SQLite浏览器，Regex测试器，XPath测试器）![Freeware][Freeware Icon]
 - [Fiddler](http://www.telerik.com/fiddler)-Web调试代理。
 - [FileZilla](https://filezilla-project.org/)-FTP，FTPS和SFTP客户端。 [![Open-Source Software][OSS Icon]](https://download.filezilla-project.org/client/)![Freeware][Freeware Icon]
 - [Fork](https://git-fork.com/)-适用于Windows（和Mac）的快速友好的Git客户端。 ![Freeware][Freeware Icon]
-- [Git扩展程序](https://gitextensions.github.io/)-一个功能强大且易于使用的Git UI。 [![Open-Source Software][OSS Icon]](https://github.com/gitextensions/gitextensions)![Freeware][Freeware Icon]
+- [Git Extensions](https://gitextensions.github.io/)-一个功能强大且易于使用的Git UI。 [![Open-Source Software][OSS Icon]](https://github.com/gitextensions/gitextensions)![Freeware][Freeware Icon]
 - [GitHub Desktop](https://desktop.github.com/)-GitHub Desktop是一个基于Electron的开源GitHub应用。 [![Open-Source Software][OSS Icon]](https://github.com/desktop/desktop)![Freeware][Freeware Icon]
 - [GitKraken](https://www.gitkraken.com/)-一个漂亮的跨平台Git客户。 ![Freeware][Freeware Icon]
 - [HeidiSQL](http://www.heidisql.com/)-适用于MySQL，MariaDB，Microsoft SQL Server和PostgreSQL的强大易用的客户端。
-- [HTTP工具包](https://httptoolkit.tech)-HTTP调试和模拟工具。 [![Open-Source Software][OSS Icon]](https://github.com/httptoolkit)![Freeware][Freeware Icon]
-- [仅休息](https://github.com/SwensenSoftware/im-only-resting)-基于WinForms的功能丰富的HTTP客户端[![Open-Source Software][OSS Icon]](https://github.com/swensensoftware/im-only-resting)![Freeware][Freeware Icon]
+- [HTTP Toolkit](https://httptoolkit.tech)-HTTP调试和模拟工具。 [![Open-Source Software][OSS Icon]](https://github.com/httptoolkit)![Freeware][Freeware Icon]
+- [I’m Only Resting](https://github.com/SwensenSoftware/im-only-resting)-基于WinForms的功能丰富的HTTP客户端[![Open-Source Software][OSS Icon]](https://github.com/swensensoftware/im-only-resting)![Freeware][Freeware Icon]
 - [Insomnia](http://insomnia.rest)-具有漂亮界面的现代REST客户端。 ![Open-Source Software][OSS Icon]![Freeware][Freeware Icon]
 - [Keylord](https://protonail.com/products/keylord)用于Redis，LevelDB和Memcached键值数据库的跨平台GUI客户端。
 - [Mamp](https://www.mamp.info/en/)-本地服务器环境。 ![Freeware][Freeware Icon]
-- [合并](http://meldmerge.org/)-视觉差异和合并工具。 [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/meld/)![Freeware][Freeware Icon]
+- [Meld](http://meldmerge.org/)-视觉差异和合并工具。 [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/meld/)![Freeware][Freeware Icon]
 - [NSudo](https://github.com/M2Team/NSudo/)-强大的系统管理工具。 [![Open-Source Software][OSS Icon]](https://github.com/M2Team/NSudo/)
 - [Open Server](https://ospanel.io/)-便携式服务器平台和软件环境（例如MAMP，XAMPP，WAMP，非常用户友好）。 ![Freeware][Freeware Icon]
 - [Pixie](http://www.nattyware.com/pixie.php)-适用于开发人员的简单颜色选择器。
 - [pngquant](https://pngquant.org/)-使用或wi在PNG文件上应用有损压缩
-- [PostgreSQL数据库](http://wiki.postgresql.org/wiki/Community_Guide_to_PostgreSQL_GUI_Tools)-全面的工具列表。
-- [邮递员](https://www.getpostman.com/postman)-REST客户端具有直观的用户界面，可以发送请求，保存响应，添加测试以及创建工作流。
-- [流程浏览器](https://technet.microsoft.com/zh-cn/sysinternals/processexplorer.aspx)-强大的任务管理器。 ![Freeware][Freeware Icon]
+- [PostgreSQL Database](http://wiki.postgresql.org/wiki/Community_Guide_to_PostgreSQL_GUI_Tools)-全面的工具列表。
+- [Postman](https://www.getpostman.com/postman)-REST客户端具有直观的用户界面，可以发送请求，保存响应，添加测试以及创建工作流。
+- [Process Explorer](https://technet.microsoft.com/zh-cn/sysinternals/processexplorer.aspx)-强大的任务管理器。 ![Freeware][Freeware Icon]
 - [Process Hacker](http://processhacker.sourceforge.net/)-出色的全面任务管理器。
-- [进程监视器](https://docs.microsoft.com/zh-cn/sysinternals/downloads/procmon)-sysinternal工具显示实时文件系统，注册表，网络和进程/线程活动。 ![Freeware][Freeware Icon]
+- [Process Monitor](https://docs.microsoft.com/zh-cn/sysinternals/downloads/procmon)-sysinternal工具显示实时文件系统，注册表，网络和进程/线程活动。 ![Freeware][Freeware Icon]
 - [RazorSQL](http://www.razorsql.com/)-用于管理SQLite数据库的GUI，需要进行大量工作。
 - [Redis Desktop Manager](http://redisdesktop.com/)跨平台的开源Redis DB管理工具。
 - [Robo 3T](https://robomongo.org/)-适用于MongoDB爱好者的轻量级GUI。
@@ -142,15 +142,15 @@
 - [SSLyog](https://www.webyog.com/)-强大的MySQL管理工具
 - [TailBlazer](https://github.com/RolandPheasant/TailBlazer)-一种用于浏览日志的小型快速工具[![Open-Source Software][OSS Icon]](https://github.com/RolandPheasant/TailBlazer)![Freeware][Freeware Icon]
 - [TortoiseGit](https://tortoisegit.org/)-具有完整Shell集成的Git客户端。 [![Open-Source Software][OSS Icon]](https://github.com/tortoisegit/tortoisegit/)![Freeware][Freeware Icon]
-- [塔](https://www.git-tower.com/windows)-塔-Mac和Windows上功能最强大的Git客户端。
+- [Tower](https://www.git-tower.com/windows)-塔-Mac和Windows上功能最强大的Git客户端。
 - [Vagrant](https://www.vagrantup.com/)-用于构建和管理虚拟机的工具。 [![Open-Source Software][OSS Icon]](https://github.com/mitchellh/vagrant)
-- [速度](http://velocity.silverlakesoftware.com/)-脱机API文档工具。 （例如适用于macOS的[Dash](https://kapeli.com/dash)）
-- [Visual Studio代码](https://code.visualstudio.com/)-轻量级源代码编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode)![Freeware][Freeware Icon]
+- [Velocity](http://velocity.silverlakesoftware.com/)-脱机API文档工具。 （例如适用于macOS的[Dash](https://kapeli.com/dash)）
+- [Visual Studio Code](https://code.visualstudio.com/)-轻量级源代码编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode)![Freeware][Freeware Icon]
 - [Visual Studio](https://www.visualstudio.com/)-最终的Microsoft开发人员工具。
 - [Wamp](http://www.wampserver.com/en/)-Web开发环境。
 - [WinSCP](https://winscp.net/)-免费的开源SFTP，FTP，WebDAV和SCP客户端。 ![Freeware][Freeware Icon]
 - [Wireshark](https://www.wireshark.org/)-网络协议分析器。 [![Open-Source Software][OSS Icon]](https://www.wireshark.org/docs/wsdg_html_chunked/ChIntroDevelopment.html)![Freeware][Freeware Icon]
-- [WMI资源管理器](https://github.com/vinaypamnani/wmie2/)-提供在单个视图窗格中浏览和查看WMI名称空间/类/实例/属性的功能。 [![Open-Source Software][OSS Icon]](https://github.com/vinaypamnani/wmie2/)
+- [WMI Explorer](https://github.com/vinaypamnani/wmie2/)-提供在单个视图窗格中浏览和查看WMI名称空间/类/实例/属性的功能。 [![Open-Source Software][OSS Icon]](https://github.com/vinaypamnani/wmie2/)
 - [Xampp](https://www.apachefriends.org/index.html)-Apache驱动的Web开发环境。 ![Freeware][Freeware Icon]
 - [Xftp 5](https://www.netsarang.com/products/xfp_overview.html)-灵活轻便的SFTP / FTP客户端。 ![Freeware][Freeware Icon]
 - [Zsh](http://www.zsh.org/)-功能强大的命令行外壳。 [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/)![Freeware][Freeware Icon]
@@ -176,7 +176,7 @@
 - [Mailbird](https://www.mailbird.com/)-IMAP和POP3电子邮件客户端，具有自定义，完整的触摸支持和多语言支持。
 - [Mailspring](https://getmailspring.com/)-Nylas Mail的快速维护分支，建立在现代Web技术上。 [![Open-Source Software][OSS Icon]](https://github.com/Foundry376/Mailspring)![Freeware][Freeware Icon]
 - [Nylas Mail](https://www.nylas.com/download/)-基于现代网络构建的可扩展桌面邮件应用程序。 [![Open-Source Software][OSS Icon]](https://github.com/nylas/N1)![Freeware][Freeware Icon]
-- [邮箱](https://postbox-inc.com/)-Power Email App
+- [Postbox](https://postbox-inc.com/)-Power Email App
 - [Thunderbird](https://www.mozilla.org/zh-CN/thunderbird/)-具有简约设计的电子邮件客户端。 [![Open-Source Software][OSS Icon]](https://developer.mozilla.org/zh-CN/docs/Mozilla/Developer_guide/Build_Instructions/Simple_Thunderbird_build)![Freeware][Freeware Icon]
 
 ### 游戏
