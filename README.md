@@ -102,7 +102,7 @@
 - [QTTabBar](http://qttabbar.wikidot.com/) - Extends Explorer by tabs and extra folder views. ![Freeware][freeware icon]
 - [Rainmeter](https://www.rainmeter.net/) - Rainmeter allows you to display customizable skins on your desktop, from hardware usage meters to fully functional audio visualizers. [![Open-Source Software][oss icon]](https://github.com/rainmeter/rainmeter) ![Freeware][freeware icon]
 - [Search Deflector](https://github.com/spikespaz/search-deflector) - A small program that redirects searches made from the Windows Start Menu or Cortana to whatever browser and search engine you prefer. [![Open-Source Software][oss icon]](https://github.com/spikespaz/search-deflector) ![Freeware][freeware icon]
-- [TaskbarX](https://chrisandriessen.nl/taskbarx) - Center task bar icons with a range of customization options. [![Open-Source Software][oss icon]]
+- [TaskbarX](https://chrisandriessen.nl/taskbarx) - Center task bar icons with a range of customization options. [![Open-Source Software][oss icon]](https://github.com/ChrisAnd1998/TaskbarX)
 - [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Make your Windows task bar transparent. [![Open-Source Software][oss icon]](https://github.com/TranslucentTB/TranslucentTB) ![Freeware][freeware icon]
 - [Windows 10 Login Background Changer](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer) - Lets you change the Windows 10 login screen background. [![Open-Source Software][oss icon]](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer) ![Freeware][freeware icon]
 - [ZBar](https://www.zhornsoftware.co.uk/archive/index.html#zbar) - If you use multiple monitors, it lets you display a separate taskbar on each monitor.
@@ -269,7 +269,7 @@
 - [CopyQ](https://hluk.github.io/CopyQ/) - Clipboard manager with advanced features. [![Open-Source Software][oss icon]](https://github.com/hluk/CopyQ) ![Freeware][freeware icon]
 - [Ditto](http://ditto-cp.sourceforge.net/) - Clipboard manager.
 - [Easy Window Switcher](https://neosmart.net/EasySwitch/) - Switch between application instances, fast.
-- [Espanso] - Cross-platform Text Expander written in Rust. [![Open-Source Software][oss icon]]
+- [Espanso](https://espanso.org/) - Cross-platform Text Expander written in Rust. [![Open-Source Software][oss icon]](https://github.com/federico-terzi/espanso)
 - [Everything](http://www.voidtools.com/) - The fastest file/folder search tool by name.
 - [Executor.dk](http://executor.dk/) - A free multi purpose customizable and light-weight launcher. ![Freeware][freeware icon]
 - [f.lux](http://stereopsis.com/flux/) - Automatically adjust your computer screen to match lighting. ![Freeware][freeware icon]
