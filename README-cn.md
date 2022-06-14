@@ -154,6 +154,7 @@
 - [Xampp](https://www.apachefriends.org/index.html)-Apache驱动的Web开发环境。 ![Freeware][Freeware Icon]
 - [Xftp 5](https://www.netsarang.com/products/xfp_overview.html)-灵活轻便的SFTP / FTP客户端。 ![Freeware][Freeware Icon]
 - [Zsh](http://www.zsh.org/)-功能强大的命令行外壳。 [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/)![Freeware][Freeware Icon]
+- [Apifox](https://.apifox.cn/) -Apifox 是 API 文档、API 调试、API Mock、API 自动化测试一体化协作平台，定位 Postman + Swagger + Mock + JMeter。  ![Freeware][Freeware Icon]
 
 ### 文档
 
