@@ -296,6 +296,7 @@
 - [ColorTool](https://github.com/Microsoft/Console/tree/master/tools/ColorTool) - Set custom color schemes for the Windows Console with support for iTerm color schemes.
 - [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable terminal with tabs, splits, quake-style and more.
 - [ConsoleZ](https://github.com/cbucher/console) - Modified version of Console 2 for a better experience and a better visual rendering.
+- [diskusage](https://github.com/chenquan/diskusage) - A tool for showing disk usage. (Linux, macOS and Windows)
 - [FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
 - [Hyper](https://hyper.is) - A terminal built on web technologies. [![Open-Source Software][oss icon]](https://github.com/zeit/hyper) ![Freeware][freeware icon]
 - [Kitty](http://www.9bis.net/kitty/) - advanced Putty (SSH and telnet client).
