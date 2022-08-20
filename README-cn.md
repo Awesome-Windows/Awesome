@@ -271,6 +271,7 @@
 - [ColorTool](https://github.com/Microsoft/Console/tree/master/tools/ColorTool) - 设置Widows终端支持iTerm的颜色模式。
 - [ConEmu](https://github.com/Maximus5/ConEmu) - 标签，分布，闪烁及其他各项均可定制的终端。
 - [ConsoleZ](https://github.com/cbucher/console) - Console 2 的修改版本，更好的体验和更好的视觉呈现。
+- [diskusage](https://github.com/chenquan/diskusage) - 一个显示磁盘使用情况的工具。 (Linux、macOS和Windows)
 - [FluentTerminal](https://github.com/felixse/FluentTerminal) - 基于 UWP 和 Web 技术的终端应用程序。
 - [Hyper](https://hyper.is) - 基于 Web 技术的终端。 [![Open-Source Software][OSS Icon]](https://github.com/zeit/hyper) ![Freeware][Freeware Icon]
 - [Kitty](http://www.9bis.net/kitty/) - 高级 Putty (SSH 和 telnet 客户端)。
