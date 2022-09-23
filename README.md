@@ -355,7 +355,7 @@
 - [Sysinternals Suite](https://technet.microsoft.com/en-us/sysinternals/bb842062) - Tool suite by Mark Russinovich that provides access to Windows internals for troubleshooting: processes, physical ports, disk activity etc.
 - [Unlocker](http://www.softpedia.com/get/System/System-Miscellaneous/Unlocker.shtml) - Unlock files Windows won't let you delete
 - [Waltr](http://softorino.com/waltr/) - Transfer any movie or music file to your iPhone w/o iTunes.
-- [WinDirStat](https://windirstat.info/) - It is a disk usage statistics viewer and cleanup too.
+- [WinDirStat](https://windirstat.info/) - It is a disk usage statistics viewer and cleanup too. [![Open-Source Software][oss icon]](https://github.com/windirstat/windirstat)
 - [Windows 10 Login Screen Changer](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer/releases/) - Changes the Windows 10 Login Screen Background. [![Open-Source Software][oss icon]](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer)
 - [`winreg-cli`](https://github.com/notlmn/winreg-cli) - Command line tool with a fluent API for modifying Windows registry. ![[Open-Source Software][OSS Icon]](https://github.com/notlmn/winreg-cli) ![Freeware][freeware icon]
 - [WizTree](https://wiztree.en.lo4d.com/) - Excellent, small utility application allows users to quickly find large files on a hard drive. ![Freeware][freeware icon]
