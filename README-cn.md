@@ -6,7 +6,7 @@
 
 > Windows上优质&精选的最佳应用程序及工具列表。
 
-> *标有 ![Open-Source Software][OSS Icon] 的项目是Open-Source Software。 标有![Freeware][Freeware Icon] 的项目是Freeware。*
+> *标有 ![Open-Source Software][OSS Icon] 的项目是开源软件。 标有![Freeware][Freeware Icon] 的项目是免费软件。*
 
 # <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/chrome_2016-06-11_19-02-31.png" alt="table of contents">
 
@@ -142,10 +142,10 @@
 - [SSLyog](https://www.webyog.com/)-强大的MySQL管理工具
 - [TailBlazer](https://github.com/RolandPheasant/TailBlazer)-一种用于浏览日志的小型快速工具[![Open-Source Software][OSS Icon]](https://github.com/RolandPheasant/TailBlazer)![Freeware][Freeware Icon]
 - [TortoiseGit](https://tortoisegit.org/)-具有完整Shell集成的Git客户端。 [![Open-Source Software][OSS Icon]](https://github.com/tortoisegit/tortoisegit/)![Freeware][Freeware Icon]
-- [塔](https://www.git-tower.com/windows)-塔-Mac和Windows上功能最强大的Git客户端。
+- [Tower](https://www.git-tower.com/windows)-Tower-Mac和Windows上功能最强大的Git客户端。
 - [Vagrant](https://www.vagrantup.com/)-用于构建和管理虚拟机的工具。 [![Open-Source Software][OSS Icon]](https://github.com/mitchellh/vagrant)
-- [速度](http://velocity.silverlakesoftware.com/)-脱机API文档工具。 （例如适用于macOS的[Dash](https://kapeli.com/dash)）
-- [Visual Studio代码](https://code.visualstudio.com/)-轻量级源代码编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode)![Freeware][Freeware Icon]
+- [Velocity](http://velocity.silverlakesoftware.com/)-脱机API文档工具。 （例如适用于macOS的[Dash](https://kapeli.com/dash)）
+- [Visual Studio Code](https://code.visualstudio.com/)-轻量级源代码编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode)![Freeware][Freeware Icon]
 - [Visual Studio](https://www.visualstudio.com/)-最终的Microsoft开发人员工具。
 - [Wamp](http://www.wampserver.com/en/)-Web开发环境。
 - [WinSCP](https://winscp.net/)-免费的开源SFTP，FTP，WebDAV和SCP客户端。 ![Freeware][Freeware Icon]
@@ -157,27 +157,27 @@
 
 ### 文档
 
-- [FreeOffice](http://www.freeoffice.com/en/)-FreeOffice是一个完整的办公套件，带有文字处理器，电子表格应用程序和演示程序，所有套件均与Microsoft Office中的同类产品兼容。 ![Freeware][Freeware Icon]
-- [LibreOffice](https://www.libreoffice.org/)-开源办公套件。 [![Open-Source Software][OSS Icon]](https://www.libreoffice.org/about-us/source-code/)![Freeware][Freeware Icon]
-- [Microsoft Office](http://www.office.com)-微软自己的生产力套件。
-- [NitroPDF](https://www.gonitro.com/pdf-reader)-您将获得的最佳PDF阅读器。
-- [OnlyOffice](https://www.onlyoffice.com/)-最完整，功能最丰富的办公和生产力套件。 ![Freeware][Freeware Icon]
-- [OpenOffice](https://www.openoffice.org/)-用于文字处理，电子表格，演示文稿，图形，数据库等的软件套件。 [![Open-Source Software][OSS Icon]](http://openoffice.apache.org/source.html)![Freeware][Freeware Icon]
-- [Sumatra PDF](http://www.sumatrapdfreader.org/free-pdf-reader.html)-PDF，ePub，MOBI，CHM，XPS，DjVu，CBZ，CBR阅读器。 [![Open-Source Software][OSS Icon]](https://github.com/sumatrapdfreader/sumatrapdf)![Freeware][Freeware Icon]
-- [WPS Office](https://www.wps.com/office-free)-完美的免费办公软件![Freeware][Freeware Icon]
+- [FreeOffice](http://www.freeoffice.com/en/) - FreeOffice是一个完整的办公套件，带有文字处理器，电子表格应用程序和演示程序，所有套件均与Microsoft Office中的同类产品兼容。 ![Freeware][Freeware Icon]
+- [LibreOffice](https://www.libreoffice.org/) - 开源办公套件。 [![Open-Source Software][OSS Icon]](https://www.libreoffice.org/about-us/source-code/)![Freeware][Freeware Icon]
+- [Microsoft Office](http://www.office.com) - 微软自己的生产力套件。
+- [NitroPDF](https://www.gonitro.com/pdf-reader) - 您将获得的最佳PDF阅读器。
+- [OnlyOffice](https://www.onlyoffice.com/) - 最完整，功能最丰富的办公和生产力套件。 ![Freeware][Freeware Icon]
+- [OpenOffice](https://www.openoffice.org/) - 用于文字处理，电子表格，演示文稿，图形，数据库等的软件套件。 [![Open-Source Software][OSS Icon]](http://openoffice.apache.org/source.html)![Freeware][Freeware Icon]
+- [Sumatra PDF](http://www.sumatrapdfreader.org/free-pdf-reader.html) - PDF，ePub，MOBI，CHM，XPS，DjVu，CBZ，CBR阅读器。 [![Open-Source Software][OSS Icon]](https://github.com/sumatrapdfreader/sumatrapdf)![Freeware][Freeware Icon]
+- [WPS Office](https://www.wps.com/office-free) - 完美的免费办公软件![Freeware][Freeware Icon]
 
 ### 电子书实用程序
-- [Bookviser](http://apps.microsoft.com/windows/zh-cn/app/bookviser-reader/42d4527a-b1fe-479b-ad04-150303dc056f)-Windows 8设备的出色应用程序，可轻松读取电子书 办法。 ![Freeware][Freeware Icon]
-- [Calibre](http://calibre-ebook.com/)-用于电子书管理和转换的强大软件。 [![Open-Source Software][OSS Icon]](http://calibre-ebook.com/get-involved)![Freeware][Freeware Icon]
-- [kobo](https://www.kobo.com/desktop)-用于电子书管理和转换的极其丑陋但功能强大的软件。 ![Freeware][Freeware Icon]
+- [Bookviser](http://apps.microsoft.com/windows/zh-cn/app/bookviser-reader/42d4527a-b1fe-479b-ad04-150303dc056f) - Windows 8设备的出色应用程序，可轻松读取电子书 办法。 ![Freeware][Freeware Icon]
+- [Calibre](http://calibre-ebook.com/) - 用于电子书管理和转换的强大软件。 [![Open-Source Software][OSS Icon]](http://calibre-ebook.com/get-involved)![Freeware][Freeware Icon]
+- [kobo](https://www.kobo.com/desktop) - 用于电子书管理和转换的极其丑陋但功能强大的软件。 ![Freeware][Freeware Icon]
 
 ### 电子邮件
 
 - [Mailbird](https://www.mailbird.com/)-IMAP和POP3电子邮件客户端，具有自定义，完整的触摸支持和多语言支持。
-- [Mailspring](https://getmailspring.com/)-Nylas Mail的快速维护分支，建立在现代Web技术上。 [![Open-Source Software][OSS Icon]](https://github.com/Foundry376/Mailspring)![Freeware][Freeware Icon]
-- [Nylas Mail](https://www.nylas.com/download/)-基于现代网络构建的可扩展桌面邮件应用程序。 [![Open-Source Software][OSS Icon]](https://github.com/nylas/N1)![Freeware][Freeware Icon]
+- [Mailspring](https://getmailspring.com/) - Nylas Mail的快速维护分支，建立在现代Web技术上。 [![Open-Source Software][OSS Icon]](https://github.com/Foundry376/Mailspring)![Freeware][Freeware Icon]
+- [Nylas Mail](https://www.nylas.com/download/) - 基于现代网络构建的可扩展桌面邮件应用程序。 [![Open-Source Software][OSS Icon]](https://github.com/nylas/N1)![Freeware][Freeware Icon]
 - [邮箱](https://postbox-inc.com/)-Power Email App
-- [Thunderbird](https://www.mozilla.org/zh-CN/thunderbird/)-具有简约设计的电子邮件客户端。 [![Open-Source Software][OSS Icon]](https://developer.mozilla.org/zh-CN/docs/Mozilla/Developer_guide/Build_Instructions/Simple_Thunderbird_build)![Freeware][Freeware Icon]
+- [Thunderbird](https://www.mozilla.org/zh-CN/thunderbird/) - 具有简约设计的电子邮件客户端。 [![Open-Source Software][OSS Icon]](https://developer.mozilla.org/zh-CN/docs/Mozilla/Developer_guide/Build_Instructions/Simple_Thunderbird_build)![Freeware][Freeware Icon]
 
 ### 游戏
 - [0 A.D.](https://play0ad.com/) - 免费，开源，实时的关于古代战争的策略游戏。 [![Open-Source Software][OSS Icon]](https://github.com/0ad/0ad) ![Freeware][Freeware Icon]
@@ -409,7 +409,7 @@ TODO
 
 ## 贡献
 
-欢迎贡献列表，请参照此 [contribution guidelines](Contributing.md).
+欢迎贡献列表，请参照此 [contribution guidelines](Contributing.md)。
 
 **[⬆ 回到顶部](#应用程序)**
 
