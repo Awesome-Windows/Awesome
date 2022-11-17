@@ -126,6 +126,7 @@
 - [Git Extensions](https://gitextensions.github.io/) - A powerful and easy to use UI for Git. [![Open-Source Software][oss icon]](https://github.com/gitextensions/gitextensions) ![Freeware][freeware icon]
 - [GitHub Desktop](https://desktop.github.com/) - GitHub Desktop is an open source Electron-based GitHub app. [![Open-Source Software][oss icon]](https://github.com/desktop/desktop) ![Freeware][freeware icon]
 - [GitKraken](https://www.gitkraken.com/) - A beautiful, cross-platform Git client. ![Freeware][freeware icon]
+- [He3](https://he3.app) - Free and Modern Developer Toolbox. ![Freeware][Freeware Icon]
 - [HeidiSQL](http://www.heidisql.com/) - Powerful and easy client for MySQL, MariaDB, Microsoft SQL Server and PostgreSQL.
 - [HTTP Toolkit](https://httptoolkit.tech) - HTTP debugging & mocking tool. [![Open-Source Software][oss icon]](https://github.com/httptoolkit) ![Freeware][freeware icon]
 - [I'm Only Resting](https://github.com/SwensenSoftware/im-only-resting) -A feature-rich WinForms-based HTTP client [![Open-Source Software][oss icon]](https://github.com/swensensoftware/im-only-resting) ![Freeware][freeware icon]

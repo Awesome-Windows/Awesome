@@ -118,6 +118,7 @@
 - [Git扩展程序](https://gitextensions.github.io/)-一个功能强大且易于使用的Git UI。 [![Open-Source Software][OSS Icon]](https://github.com/gitextensions/gitextensions)![Freeware][Freeware Icon]
 - [GitHub Desktop](https://desktop.github.com/)-GitHub Desktop是一个基于Electron的开源GitHub应用。 [![Open-Source Software][OSS Icon]](https://github.com/desktop/desktop)![Freeware][Freeware Icon]
 - [GitKraken](https://www.gitkraken.com/)-一个漂亮的跨平台Git客户。 ![Freeware][Freeware Icon]
+- [He3](https://he3.app) - 免费智能的开发者万能工具箱. ![Freeware][Freeware Icon]
 - [HeidiSQL](http://www.heidisql.com/)-适用于MySQL，MariaDB，Microsoft SQL Server和PostgreSQL的强大易用的客户端。
 - [HTTP工具包](https://httptoolkit.tech)-HTTP调试和模拟工具。 [![Open-Source Software][OSS Icon]](https://github.com/httptoolkit)![Freeware][Freeware Icon]
 - [仅休息](https://github.com/SwensenSoftware/im-only-resting)-基于WinForms的功能丰富的HTTP客户端[![Open-Source Software][OSS Icon]](https://github.com/swensensoftware/im-only-resting)![Freeware][Freeware Icon]
