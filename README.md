@@ -410,7 +410,8 @@
 - [SpyBot](https://www.safer-networking.org/) - Search and destroy malware, spyware and viruses. ![Freeware][freeware icon]
 - [System Explorer](http://systemexplorer.net) - An enhanced task manager with support for monitoring and modifying system processes, start-up programs, system services, drivers, shell extensions, and more.
 - [Tor Project](https://www.torproject.org/) - Enable anonymous communication. [![Open-Source Software][oss icon]](https://github.com/TheTorProject) ![Freeware][freeware icon]
-- [UnChecky](https://unchecky.com/) - automatically unchecks unrelated offers from installers.
+- [I2P](https://geti2p.net/) - I2P is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate.  [![Open-Source Software][oss icon]](https://github.com/i2p/i2p.i2p) ![Freeware][freeware icon]
+- [UnChecky](https://unchecky.com/) - automatically unchecks unrelated offers from installers. [![Open-Source Software][oss icon]](https://github.com/i2p/i2p.i2p) ![Freeware]
 - [VeraCrypt](https://www.veracrypt.fr/en/Home.html) - VeraCrypt is a free open source disk encryption software for Windows, Mac OSX and Linux. [![Open-Source Software][oss icon]](https://www.veracrypt.fr/code/VeraCrypt/)
 - [Viscosity](https://www.sparklabs.com/viscosity/) - Fully-featured OpenVPN client, ready for enterprise deployment. ![Freeware][freeware icon]
 - [Windows 10 Paranoid's Guide](http://www.zdnet.com/article/how-to-secure-windows-10-the-paranoids-guide/)
