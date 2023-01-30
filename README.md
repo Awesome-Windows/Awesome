@@ -362,6 +362,7 @@
 - [Yacy](https://github.com/yacy/yacy_search_server) - A general search engine by corporations of people, including the search web page, general crawlers, indexing, and ranking functions.[![Open-Source Software][oss icon]](https://github.com/yacy/yacy_search_server)
 - [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - A decentralized web. [![Open-Source Software][oss icon]](https://github.com/HelloZeroNet/ZeroNet)
 - [ZoomIt](https://technet.microsoft.com/en-us/sysinternals/zoomit.aspx) - It is a screen zoom and annotation tool for technical presentations. It runs unobtrusively in the tray and activates with customizable hotkeys to zoom in on an area of the screen, move around while zoomed, and draw on the zoomed image.
+- [SquirrelDisk](https://github.com/adileo/squirreldisk) - Beautiful cross-platform disk usage analysis tool. [![Open-Source Software][OSS Icon]](https://github.com/adileo/squirreldisk) ![Freeware][Freeware Icon]
 
 ### Proxy and VPN Tools
 
