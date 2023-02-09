@@ -147,7 +147,7 @@
 - [Robo 3T](https://robomongo.org/) - A lightweight GUI for MongoDB enthusiasts.
 - [SourceTree](https://www.sourcetreeapp.com/) - A free Git & Mercurial client.
 - [Sql Wave](http://www.valentina-db.com/en/sqlwave) - A MySQL database manager.
-- [SSLyog](https://www.webyog.com/) - A powerful MySQL administration tool
+- [SQLyog](https://www.webyog.com/) - A powerful MySQL administration tool
 - [TailBlazer](https://github.com/RolandPheasant/TailBlazer) - A small fast tool for browsing through logs [![Open-Source Software][oss icon]](https://github.com/RolandPheasant/TailBlazer) ![Freeware][freeware icon]
 - [TortoiseGit](https://tortoisegit.org/) - Git client with full shell integration. [![Open-Source Software][oss icon]](https://github.com/tortoisegit/tortoisegit/) ![Freeware][freeware icon]
 - [Tower](https://www.git-tower.com/windows) - Tower - the most powerful Git client for Mac and Windows.
