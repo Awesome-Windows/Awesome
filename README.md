@@ -313,6 +313,7 @@
 - [AddToSendTo](https://aashutoshrathi.github.io/Python-Scripts-and-Games/AddToSendTo/) - This script lets you add your favorite Folder to Send To option, when you right-click. [![Open-Source Software][oss icon]](https://aashutoshrathi.github.io/Python-Scripts-and-Games/AddToSendTo/)
 - [Advanced Renamer](https://www.advancedrenamer.com/) - Advanced batch renaming program, with support for renaming based on GPS data from images, ID3 tags from music files, TV show data and regular expressions. ![Freeware][freeware icon]
 - [Bandicam](https://www.bandicam.com) - Recording software allowing easy video recording of both desktop and 3D apps simultaneously.
+- [Browser Tamer](https://www.aloneguid.uk/projects/bt/) - Super fast, tiny desktop Windows app that helps to redirect clicked links to a correct web browser.
 - [Carnac](http://code52.org/carnac/) - The easiest way to record keystrokes during any screen recording.
 - [CleanMyPC](http://macpaw.com/cleanmypc) - A clean computer in no time.
 - [CPU-Z](http://www.cpuid.com/softwares/cpu-z.html) - A free all-in-one CPU monitoring tool. ![Freeware][freeware icon]
