@@ -167,9 +167,9 @@
 - [WPS Office](https://www.wps.com/office-free)-完美的免费办公软件![Freeware][Freeware Icon]
 
 ### 电子书实用程序
-- [Bookviser](http://apps.microsoft.com/windows/zh-cn/app/bookviser-reader/42d4527a-b1fe-479b-ad04-150303dc056f)-Windows 8设备的出色应用程序，可轻松读取电子书 办法。 ![Freeware][Freeware Icon]
 - [Calibre](http://calibre-ebook.com/)-用于电子书管理和转换的强大软件。 [![Open-Source Software][OSS Icon]](http://calibre-ebook.com/get-involved)![Freeware][Freeware Icon]
 - [kobo](https://www.kobo.com/desktop)-用于电子书管理和转换的极其丑陋但功能强大的软件。 ![Freeware][Freeware Icon]
+- [Thorium](https://www.edrlab.org/software/thorium-reader/) - Thorium Reader是一个适用于Win10，Win11，MacOS和Linux的EPUB阅读器 [![Open-Source Software][oss icon]](https://github.com/edrlab/thorium-reader) ![Freeware][freeware icon]
 
 ### 电子邮件
 
