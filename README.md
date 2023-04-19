@@ -176,9 +176,9 @@
 
 ### E-Book Utilities
 
-- [Bookviser](http://apps.microsoft.com/windows/en-us/app/bookviser-reader/42d4527a-b1fe-479b-ad04-150303dc056f) - Awesome application for Windows 8 devices to read eBooks in a simple way. ![Freeware][freeware icon]
 - [Calibre](http://calibre-ebook.com/) - Powerful software for e-book management and conversion. [![Open-Source Software][oss icon]](http://calibre-ebook.com/get-involved) ![Freeware][freeware icon]
 - [kobo](https://www.kobo.com/desktop) - Incredibly ugly but powerful software for ebook management and conversion. ![Freeware][freeware icon]
+- [Thorium](https://www.edrlab.org/software/thorium-reader/) - Thorium Reader is the EPUB reader of choice for Windows 10 and 11, MacOS and Linux. [![Open-Source Software][oss icon]](https://github.com/edrlab/thorium-reader) ![Freeware][freeware icon]
 
 ### Email
 
