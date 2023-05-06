@@ -81,7 +81,7 @@
 - [mIRC](http://www.mirc.com/) - An Internet Relay Chat (IRC) client.
 - [Quassel](http://quassel-irc.org/) - Quassel IRC is a modern, cross-platform, distributed IRC client. [![Open-Source Software][OSS Icon]](http://quassel-irc.org/) ![Freeware][Freeware Icon]
 - [Riot](https://about.riot.im/) - A decentralised encrypted comms app for the Matrix.org ecosystem. [![Open-Source Software][OSS Icon]](https://github.com/vector-im/riot-web) ![Freeware][Freeware Icon]
-- [Signal](signal.org) - An end-to-end encrypted messaging app that prioritizes privacy and security.. [![Open-Source Software][OSS Icon]](https://github.com/signalapp) ![Freeware][Freeware Icon]
+- [Signal](https://signal.org) - An end-to-end encrypted messaging app that prioritizes privacy and security.. [![Open-Source Software][OSS Icon]](https://github.com/signalapp) ![Freeware][Freeware Icon]
 - [Telegram](https://desktop.telegram.org/) - A messaging app with a focus on speed and security, it’s super fast, simple and free. [![Open-Source Software][OSS Icon]](https://telegram.org/apps)  ![Freeware][Freeware Icon]
 - [Waow](http://dedg3.com/wao/) - Awesome WhatsApp Web Client to deliver you the best WhatsApp experience. ![Freeware][Freeware Icon]
 - [Franz](https://meetfranz.com/) - A messaging app for WhatsApp, Facebook Messenger, Slack, Telegram and many many more. [![Open-Source Software][OSS Icon]](https://github.com/meetfranz/franz) ![Freeware][Freeware Icon]
