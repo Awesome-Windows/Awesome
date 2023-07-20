@@ -384,6 +384,10 @@
 
 ## Setup
 
+
+### Windows 10/11 Activation
+- [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts) - Easy activate Windows 10/11
+
 ### Windows 10 Setup
 
 - http://www.theverge.com/2015/7/31/9077997/microsoft-windows-10-clean-install-how-to-guide
