@@ -257,6 +257,7 @@
 - [Arq](https://www.arqbackup.com/) - Backs up your files to your own cloud account (Amazon Cloud Drive, AWS, Dropbox, Google Drive, Google Cloud Storage, OneDrive, and SFTP).
 - [Bvckup 2](https://bvckup2.com/) - Light, versatile data replication software.
 - [Duplicati](https://www.duplicati.com/) - Free backup software to store encrypted backups online For Windows, macOS and Linux. [![Open-Source Software][oss icon]](https://github.com/duplicati/duplicati) ![Freeware][freeware icon]
+- [Restic](https://restic.net/) - Free cross-platform backup tool with support for various storage types. [![Open-Source Software][oss icon]](https://github.com/restic/restic/tree/master) ![Freeware][freeware icon]
 
 ### Productivity
 
