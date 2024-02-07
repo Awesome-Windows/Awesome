@@ -192,7 +192,7 @@
 ### Games
 
 - [0 A.D.](https://play0ad.com/) - A free, open-source real-time strategy game of ancient warfare. [![Open-Source Software][oss icon]](https://github.com/0ad/0ad) ![Freeware][freeware icon]
-- [Awesome Games](https://github.com/leereilly/games) - List of games hosted on Github. ![Freeware][freeware icon]
+- [Awesome Games](https://github.com/leereilly/games) - List of games hosted on GitHub. ![Freeware][freeware icon]
 - [Freeciv](http://www.freeciv.org/) - A Free and Open Source empire-building strategy game inspired by the history of human civilization. [![Open-Source Software][oss icon]](https://github.com/freeciv/) ![Freeware][freeware icon]
 - [Godot Engine](https://godotengine.org/) - Free and open source game engine. Easy to get started and flexible for intermediate users. [![Open-Source Software][oss icon]](https://github.com/godotengine/godot) ![Freeware][freeware icon]
 - [GOG](https://www.gog.com/) - DRM-free game store with a lot of old games but also has a rich collection of new games.
