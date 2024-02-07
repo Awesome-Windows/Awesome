@@ -92,6 +92,7 @@
 - [PeaZip](http://www.peazip.org/) - Archiver and file compressor. Extract 7Z CAB ISO RAR TAR ZIP archive files. [![Open-Source Software][oss icon]](https://osdn.net/projects/peazip/) ![Freeware][freeware icon]
 - [Riot](http://luci.criosweb.ro/riot/) - Compress images either by file size or by many other image attributes. ![Freeware][freeware icon]
 - [WinRAR](http://www.rarlab.com/) - A powerful archive manager. It can backup your data and reduce the size of email attachments, decompress RAR, ZIP and other files.
+- [WinZip](https://www.winzip.com/) - The original archive manager. Professionally code audited for government or adjactent-to-government use in many countries. Supports ZIP, RAR, 7Z, and other file types. Made in Canada.
 
 ### Customization
 
