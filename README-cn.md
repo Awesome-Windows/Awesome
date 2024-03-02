@@ -87,6 +87,7 @@
 
 ### 个性化
 
+- [Sucrose Wallpaper Engine](https://apps.microsoft.com/detail/XP8JGPBHTJGLCQ?launch=true&mode=full) - Sucrose是一个多功能的壁纸引擎，通过各种互动主题为您的桌面注入生机。 [![Open-Source Software][oss icon]](https://github.com/Taiizor/Sucrose) ![Freeware][freeware icon]
 - [7+ Taskbar Tweaker](http://rammichael.com/7-taskbar-tweaker) - 允许自定义和扩展Windows任务栏功能，并具有各种生产力增强功能。 ![Freeware][Freeware Icon]
 - [Classic Start](https://github.com/passionate-coder/Classic-Start) - 使用开始菜单和资源管理器就像2000年一样。 [![Open-Source Software][OSS Icon]](https://github.com/passionate-coder/Classic-Start) ![Freeware][Freeware Icon]
 - [Clover](http://en.ejie.me/) - 将多选项卡功能添加到Windows资源管理器。![Freeware][Freeware Icon]
