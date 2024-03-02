@@ -95,6 +95,7 @@
 
 ### Customization
 
+- [Sucrose Wallpaper Engine](https://apps.microsoft.com/detail/XP8JGPBHTJGLCQ?launch=true&mode=full) - Sucrose is a versatile wallpaper engine that brings life to your desktop with a wide range of interactive themes. [![Open-Source Software][oss icon]](https://github.com/Taiizor/Sucrose) ![Freeware][freeware icon]
 - [7+ Taskbar Tweaker](http://rammichael.com/7-taskbar-tweaker) - Allows to customize and extend Windows taskbar functionality with various productivity enhancements. ![Freeware][freeware icon]
 - [Classic Start](https://github.com/passionate-coder/Classic-Start) - Use Start Menu and Explorer like it's 2000. [![Open-Source Software][oss icon]](https://github.com/passionate-coder/Classic-Start) ![Freeware][freeware icon]
 - [Clover](http://en.ejie.me/) - Add multi-tab functionality to Windows Explorer. ![Freeware][freeware icon]
